@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno id="A1510">
+        <nome>Ademar Fontes De Magalhaes Goncalves</nome>
+        <dataNasc>2003-01-03</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A32597">
+        <nome>Aderito Nelson Miranda De Oliveira</nome>
+        <dataNasc>2000-04-05</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A36539">
+        <nome>Admilson Cesar Andrade Rodrigues</nome>
+        <dataNasc>2001-10-24</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38165">
+        <nome>Afonso Delerue Arriaga</nome>
+        <dataNasc>1999-11-11</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38176">
+        <nome>Agostinho Manuel Alves Da Silva</nome>
+        <dataNasc>1998-01-04</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A38196">
+        <nome>Alexandre Coelho Carvalho</nome>
+        <dataNasc>2003-07-02</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A35271">
+        <nome>Alexandre Jorge Camelo Faria</nome>
+        <dataNasc>1998-11-09</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38193">
+        <nome>Alexandre Manuel Pereira De Miranda Pinto</nome>
+        <dataNasc>1997-10-07</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A18141">
+        <nome>Alexandre Miguel Da Costa Ferreira Dos Santos</nome>
+        <dataNasc>2002-11-25</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A38218">
+        <nome>Alexandrina Maria Ferreira Lemos</nome>
+        <dataNasc>2000-12-02</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A36487">
+        <nome>Ali Dos Reis Mota</nome>
+        <dataNasc>2000-01-24</dataNasc>
+        <curso>CS13</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A35272">
+        <nome>Ana Luisa Parreira Nunes</nome>
+        <dataNasc>2003-04-21</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A27589">
+        <nome>Ana Margarida Fidalgo Pinheiro</nome>
+        <dataNasc>2005-02-08</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A25073">
+        <nome>Ana Margarida Lima Alem</nome>
+        <dataNasc>1997-06-07</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38169">
+        <nome>Andre Abilio Nunes Rocha Rodrigues</nome>
+        <dataNasc>1998-02-19</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A33822">
+        <nome>Andre Fernandes Martins</nome>
+        <dataNasc>2004-08-17</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38214">
+        <nome>Andre Filipe De Sousa Viveiros</nome>
+        <dataNasc>2000-05-16</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A35274">
+        <nome>Andre Filipe Oliveira Martins</nome>
+        <dataNasc>2002-01-08</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A29871">
+        <nome>Andre Leite Ferreira</nome>
+        <dataNasc>2002-06-27</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38215">
+        <nome>Andre Ribeiro Rodrigues</nome>
+        <dataNasc>1999-02-05</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38117">
+        <nome>Antonio Andre Marques Ribeiro</nome>
+        <dataNasc>2005-11-18</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A35277">
+        <nome>Antonio Manuel Martins Pinto</nome>
+        <dataNasc>1998-06-19</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A35278">
+        <nome>Antonio Manuel Rodrigues Fernandes</nome>
+        <dataNasc>1997-04-22</dataNasc>
+        <curso>CS15</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38138">
+        <nome>Antonio Nuno Bacelar Martins Barreiro Covas</nome>
+        <dataNasc>2002-05-15</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A35280">
+        <nome>Antonio Ricardo Pereira Goncalves</nome>
+        <dataNasc>1999-08-06</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A33057">
+        <nome>Antonio Rui Miranda De Lemos</nome>
+        <dataNasc>2004-09-19</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A38143">
+        <nome>Antonio Sergio Matos Silva</nome>
+        <dataNasc>1997-01-08</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A30166">
+        <nome>Antonio Tiago Morgado Pereira</nome>
+        <dataNasc>1999-01-03</dataNasc>
+        <curso>CS22</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A36971">
+        <nome>Augusto Jorge Pereira Da Costa</nome>
+        <dataNasc>2001-01-06</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38132">
+        <nome>Avelino Jose Da Costa Rego</nome>
+        <dataNasc>2003-12-03</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A33140">
+        <nome>Avelino Rodrigo Araujo Semelhe De Sousa Pinto</nome>
+        <dataNasc>2004-08-15</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A33141">
+        <nome>Barbara Alexandra Eusebio Freitas</nome>
+        <dataNasc>1996-12-20</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A33291">
+        <nome>Barbara Sofia Araujo Da Silva</nome>
+        <dataNasc>1996-11-01</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A33142">
+        <nome>Bruno Cesar Pereira Da Silva</nome>
+        <dataNasc>2002-08-21</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A20044">
+        <nome>Bruno De Almeida Ramos Pereira</nome>
+        <dataNasc>2002-04-19</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A35283">
+        <nome>Bruno Edgar Bernardo Teixeira</nome>
+        <dataNasc>1999-07-14</dataNasc>
+        <curso>CS11</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35284">
+        <nome>Bruno Emanuel Teixeira De Castro Araujo</nome>
+        <dataNasc>1999-05-13</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38156">
+        <nome>Bruno Filipe Da Costa Hermenegildo</nome>
+        <dataNasc>2000-12-12</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A35285">
+        <nome>Bruno Gabriel Leal Machado Dos Santos</nome>
+        <dataNasc>2000-03-18</dataNasc>
+        <curso>CS11</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A36422">
+        <nome>Bruno Jose De Macedo Soares Amor</nome>
+        <dataNasc>1999-02-04</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A33143">
+        <nome>Bruno Miguel Campos Rodrigues</nome>
+        <dataNasc>2002-09-06</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A33145">
+        <nome>Bruno Miguel Flores Diamantino</nome>
+        <dataNasc>2003-09-05</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A33146">
+        <nome>Bruno Miguel Magalhaes Azevedo</nome>
+        <dataNasc>2005-08-16</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A33148">
+        <nome>Bruno Miguel Teixeira Paiva De Faria</nome>
+        <dataNasc>1996-10-14</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38124">
+        <nome>Bruno Ricardo Cunha Magalhaes</nome>
+        <dataNasc>1998-11-03</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A30176">
+        <nome>Bruno Ricardo Duarte Magalhaes</nome>
+        <dataNasc>2001-02-14</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A35808">
+        <nome>Candido Miguel Rebelo Barros</nome>
+        <dataNasc>2000-05-26</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38126">
+        <nome>Carlos Alfredo Macieira De Faria</nome>
+        <dataNasc>2001-04-13</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A33689">
+        <nome>Carlos Andre Brito Ribeiro</nome>
+        <dataNasc>2002-08-03</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A38125">
+        <nome>Carlos Cesar Madureira Romano</nome>
+        <dataNasc>2001-03-23</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A24654">
+        <nome>Carlos De Sousa Cabral Brandao</nome>
+        <dataNasc>2003-04-14</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A20021">
+        <nome>Carlos Jose Da Cunha Ribeiro</nome>
+        <dataNasc>2004-05-07</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A35291">
+        <nome>Carlos Miguel Tavares Lopes</nome>
+        <dataNasc>2000-10-14</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A34640">
+        <nome>Carlos Prudencio Do Espirito Crisostomo</nome>
+        <dataNasc>1997-11-19</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38207">
+        <nome>Catarina Isabel De Oliveira Mateus</nome>
+        <dataNasc>1997-04-03</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A32010">
+        <nome>Catarina Sofia Martinho Luis</nome>
+        <dataNasc>1996-11-19</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A35052">
+        <nome>Cesar Filipe Da Cruz Gomes</nome>
+        <dataNasc>1998-08-06</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A35440">
+        <nome>Daniel Barbosa Alves</nome>
+        <dataNasc>1999-08-23</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A32648">
+        <nome>Daniel Filipe Peres Ferreira</nome>
+        <dataNasc>2004-12-21</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A33152">
+        <nome>Daniel Ricardo De Castro Mendes</nome>
+        <dataNasc>1996-07-07</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A38211">
+        <nome>Daniel Torres Goncalves</nome>
+        <dataNasc>2003-11-13</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A38210">
+        <nome>Daniela Cristina Garcia Teixeira</nome>
+        <dataNasc>2005-12-01</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A22854">
+        <nome>Davi Carneiro Pereira</nome>
+        <dataNasc>2005-11-12</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A35293">
+        <nome>David Daniel Cardoso De Oliveira</nome>
+        <dataNasc>2003-06-09</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A35294">
+        <nome>Diamantino Jose Madeira Abobeleira</nome>
+        <dataNasc>1998-06-28</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38166">
+        <nome>Diogo Filipe Da Silva Cardoso</nome>
+        <dataNasc>1999-02-10</dataNasc>
+        <curso>CS13</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A38164">
+        <nome>Diogo Paulo Da Fonte Lapa</nome>
+        <dataNasc>2001-04-22</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A38167">
+        <nome>Duarte Alexandre Da Cunha Alves</nome>
+        <dataNasc>2005-11-02</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A33155">
+        <nome>Duarte Filipe Afonso Chaves</nome>
+        <dataNasc>2004-12-09</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A35298">
+        <nome>Duarte Nuno Malheiro De Barreiro</nome>
+        <dataNasc>2005-01-17</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A38190">
+        <nome>Eliseu Carneiro Dos Santos Rocha</nome>
+        <dataNasc>2001-07-03</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A35300">
+        <nome>Emanuel Cerdeira Mesquita</nome>
+        <dataNasc>2004-11-21</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A30305">
+        <nome>Emanuel Jose Antunes Fernandes</nome>
+        <dataNasc>2002-10-22</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A36757">
+        <nome>Ernesto Manuel Da Silva Lopes</nome>
+        <dataNasc>2004-05-17</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A33157">
+        <nome>Eurico Manuel Folgado Afonso</nome>
+        <dataNasc>1996-10-09</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A27608">
+        <nome>Eurico Manuel Teles Morais</nome>
+        <dataNasc>2000-04-01</dataNasc>
+        <curso>CS22</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A35302">
+        <nome>Fabio Roberto Leite Matos</nome>
+        <dataNasc>2002-07-06</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A33158">
+        <nome>Fausto Miguel Pacheco Faria Viana</nome>
+        <dataNasc>2003-08-02</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A35465">
+        <nome>Fernando Antonio Alves Lopes</nome>
+        <dataNasc>2001-02-18</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A33858">
+        <nome>Fernando Jorge Pinto Lima</nome>
+        <dataNasc>1999-02-24</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A26737">
+        <nome>Fernando Miguel Sousa Lisboa</nome>
+        <dataNasc>1997-12-23</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A30187">
+        <nome>Fernando Sergio Madaleno Pereira</nome>
+        <dataNasc>2004-12-17</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A35303">
+        <nome>Filipe Antonio Goncalves Da Silva</nome>
+        <dataNasc>1998-06-14</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A36445">
+        <nome>Filipe Barroso De Oliveira</nome>
+        <dataNasc>2002-03-24</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38595">
+        <nome>Filipe Goncalo Goncalves Da Costa</nome>
+        <dataNasc>2003-03-23</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38187">
+        <nome>Flavio Miguel Xavier Ferreira</nome>
+        <dataNasc>1999-08-18</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A36424">
+        <nome>Francisco Eurico Pinto Cortez Martins Leite</nome>
+        <dataNasc>2002-05-15</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A35308">
+        <nome>Francisco Jose Maio Leite</nome>
+        <dataNasc>2003-04-23</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35443">
+        <nome>Francisco Jose Martins Gomes</nome>
+        <dataNasc>2003-07-19</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A27616">
+        <nome>Francisco Jose Prata Da Paz</nome>
+        <dataNasc>2004-10-05</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A38163">
+        <nome>Gaspar Augusto Simoes Correia Vieira Leite</nome>
+        <dataNasc>2004-06-20</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A39288">
+        <nome>Genildo Soares Neves</nome>
+        <dataNasc>1997-12-12</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A33162">
+        <nome>Goncalo Leal Machado Ribeiro Pinto</nome>
+        <dataNasc>2005-07-16</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35311">
+        <nome>Goncalo Luis Malheiro De Oliveira Novais Machado</nome>
+        <dataNasc>2000-04-10</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A39508">
+        <nome>Goncalo Manuel Correia Calheiros</nome>
+        <dataNasc>2000-12-07</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A33163">
+        <nome>Goncalo Paulo Cunha Cardoso Ferreira</nome>
+        <dataNasc>1997-12-26</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38174">
+        <nome>Guilherme Reis Barbosa</nome>
+        <dataNasc>1999-03-05</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A33165">
+        <nome>Helder Artur Peixoto Magalhaes</nome>
+        <dataNasc>2005-03-25</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A35312">
+        <nome>Helder Filipe De Castro Marques</nome>
+        <dataNasc>1996-05-16</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38185">
+        <nome>Helder Jose Ferreira Barbosa Ribeiro</nome>
+        <dataNasc>2001-01-04</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A39503">
+        <nome>Helder Nuno Martins Do Vale Tome</nome>
+        <dataNasc>2003-05-06</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A36758">
+        <nome>Hugo Alexandre Pereira Triunfante Martins</nome>
+        <dataNasc>1999-03-14</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38197">
+        <nome>Hugo Alexandre Sobreiro De Seixas</nome>
+        <dataNasc>1998-08-21</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A33272">
+        <nome>Hugo Andre Peixoto Freitas Pereira</nome>
+        <dataNasc>2002-04-26</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35315">
+        <nome>Hugo Emanuel Queiros Teixeira Da Silva</nome>
+        <dataNasc>2005-07-28</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A38202">
+        <nome>Hugo Filipe Nascimento Pereira</nome>
+        <dataNasc>2004-01-06</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A35316">
+        <nome>Hugo Guilherme Dos Santos Rigor</nome>
+        <dataNasc>2000-09-09</dataNasc>
+        <curso>CS15</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A35395">
+        <nome>Hugo Jose Fernandes Carvalho</nome>
+        <dataNasc>2003-12-26</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38204">
+        <nome>Hugo Jose Pereira Pacheco</nome>
+        <dataNasc>2000-06-24</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A26208">
+        <nome>Igor Murilo De Almeida</nome>
+        <dataNasc>2001-10-03</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A33703">
+        <nome>Isabel Maria Rosendo Cardoso</nome>
+        <dataNasc>2003-05-25</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A38134">
+        <nome>Ivo Manuel Dantas Monteiro</nome>
+        <dataNasc>1996-07-28</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A35318">
+        <nome>Jason Peter Costa</nome>
+        <dataNasc>2005-09-06</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A33168">
+        <nome>Joana Souto De Miranda Gonzalez</nome>
+        <dataNasc>2005-01-10</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A35319">
+        <nome>Joao Alexandre Vaz Oliveira</nome>
+        <dataNasc>2001-04-21</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35320">
+        <nome>Joao Antonio Lavrador Vilanova</nome>
+        <dataNasc>2001-11-10</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A32753">
+        <nome>Joao Arnaldo Freitas De Abreu</nome>
+        <dataNasc>2002-05-22</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A38180">
+        <nome>Joao Carlos Azevedo Salgado Guimaraes</nome>
+        <dataNasc>2002-07-18</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A35321">
+        <nome>Joao Filipe Fontes Machado</nome>
+        <dataNasc>1997-08-14</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A35322">
+        <nome>Joao Gilberto Lamarao Da Silva</nome>
+        <dataNasc>2004-04-24</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A38133">
+        <nome>Joao Goncalo Botica Ribeiro Da Silva</nome>
+        <dataNasc>1996-09-12</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A30201">
+        <nome>Joao Guilherme Rabaca Campos</nome>
+        <dataNasc>2005-05-28</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38123">
+        <nome>Joao Manuel Da Silva Sanches</nome>
+        <dataNasc>1999-12-10</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A34935">
+        <nome>Joao Manuel De Campos Goncalves</nome>
+        <dataNasc>2000-10-02</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A35323">
+        <nome>Joao Mario Mendes De Oliveira</nome>
+        <dataNasc>2004-03-01</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A33172">
+        <nome>Joao Miguel Raposo Da Silva Marques</nome>
+        <dataNasc>2004-02-25</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38191">
+        <nome>Joao Miguel Rodrigues Batista</nome>
+        <dataNasc>2005-09-01</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A38186">
+        <nome>Joao Nuno Marques Dos Santos</nome>
+        <dataNasc>1997-04-26</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A39750">
+        <nome>Joao Paulo Barbosa Oliveira</nome>
+        <dataNasc>2004-06-15</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A22662">
+        <nome>Joao Paulo Carrapato Almeida</nome>
+        <dataNasc>2005-09-08</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A35325">
+        <nome>Joao Paulo Coelho Gomes Teixeira E Oliveira</nome>
+        <dataNasc>2002-11-28</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A17855">
+        <nome>Joao Paulo Da Silva Castro</nome>
+        <dataNasc>2001-07-10</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38175">
+        <nome>Joao Paulo Da Silva Gomes</nome>
+        <dataNasc>2002-05-26</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A33173">
+        <nome>Joao Paulo Minhava Peixoto Assis Cardoso</nome>
+        <dataNasc>2000-10-04</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A39622">
+        <nome>Joao Paulo Silva De Vasconcelos Gusmao</nome>
+        <dataNasc>2003-03-10</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A33175">
+        <nome>Joao Pedro Bacao Coelho De Barros</nome>
+        <dataNasc>2004-03-04</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A18938">
+        <nome>Joao Pedro Brito Antunes Guimaraes</nome>
+        <dataNasc>2004-10-05</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A33176">
+        <nome>Joao Pedro Gomes Fernandes</nome>
+        <dataNasc>1999-06-28</dataNasc>
+        <curso>CS16</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A35832">
+        <nome>Joao Pedro Goncalves De Carvalho</nome>
+        <dataNasc>1997-05-08</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A38170">
+        <nome>Joao Pedro Oliveira Pereira</nome>
+        <dataNasc>1996-07-24</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A36425">
+        <nome>Joao Pedro Robalo Espinho Pereira Da Silva</nome>
+        <dataNasc>2003-11-04</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A38212">
+        <nome>Joao Pedro Silva Araujo</nome>
+        <dataNasc>2001-12-09</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A38220">
+        <nome>Joao Rafael Ferreira Veloso</nome>
+        <dataNasc>2001-08-24</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A38199">
+        <nome>Joao Ricardo Da Silva Campos</nome>
+        <dataNasc>1998-01-26</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A38198">
+        <nome>Joaquim Machado Goncalves Sampaio</nome>
+        <dataNasc>2003-06-04</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A35328">
+        <nome>Joel Araujo Rocha</nome>
+        <dataNasc>1997-01-02</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38157">
+        <nome>Joel Humberto Da Silva Beirao Do Vale Carvalho</nome>
+        <dataNasc>2005-10-03</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A20464">
+        <nome>Joel Tito Da Cruz Pinto</nome>
+        <dataNasc>1997-09-23</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A38139">
+        <nome>Jorge Alberto Faria Miranda</nome>
+        <dataNasc>2004-01-01</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A35330">
+        <nome>Jorge Andre Alves De Melo</nome>
+        <dataNasc>2000-12-26</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A16409">
+        <nome>Jorge Manuel De Castro Maio Gomes Da Costa</nome>
+        <dataNasc>2002-02-20</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A33709">
+        <nome>Jorge Manuel Viana Ribeiro Martins Forte</nome>
+        <dataNasc>1998-12-08</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A30209">
+        <nome>Jorge Miguel Goncalves Da Silva</nome>
+        <dataNasc>2000-03-23</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A21008">
+        <nome>Jorge Miguel Silva Melo Pereira</nome>
+        <dataNasc>2002-10-01</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35331">
+        <nome>Jose Alexandre De Carvalho Amorim</nome>
+        <dataNasc>2000-04-11</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A38189">
+        <nome>Jose Antonio Da Cunha E Silva</nome>
+        <dataNasc>1997-11-28</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A19705">
+        <nome>Jose Antonio Pereira Cibrao</nome>
+        <dataNasc>1998-09-13</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A30211">
+        <nome>Jose Carlos Carvalho Dos Santos</nome>
+        <dataNasc>2002-02-16</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A30212">
+        <nome>Jose Carlos Da Rocha Machado</nome>
+        <dataNasc>2001-05-19</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A36960">
+        <nome>Jose Carlos De Freitas Fontao</nome>
+        <dataNasc>2005-01-21</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A34434">
+        <nome>Jose Carlos Marques Dias</nome>
+        <dataNasc>1996-05-24</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35332">
+        <nome>Jose Diogo Ribeiro Liz De Almeida</nome>
+        <dataNasc>2004-07-19</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A39506">
+        <nome>Jose Eduardo Correia Calheiros</nome>
+        <dataNasc>2005-01-11</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A36761">
+        <nome>Jose Eduardo Teixeira Rito</nome>
+        <dataNasc>2005-01-05</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A38224">
+        <nome>Jose Filipe Henriques Vilas Boas</nome>
+        <dataNasc>2002-01-08</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A35333">
+        <nome>Jose Filipe Queijo Fernandes</nome>
+        <dataNasc>1998-04-11</dataNasc>
+        <curso>CS22</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A23916">
+        <nome>Jose Graca Da Nobrega</nome>
+        <dataNasc>2004-12-18</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A38222">
+        <nome>Jose Luis Cardoso Silva</nome>
+        <dataNasc>2000-07-27</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A38205">
+        <nome>Jose Luis Lopes De Araujo</nome>
+        <dataNasc>2001-01-12</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A27629">
+        <nome>Jose Luis Pinto Monteiro Alves</nome>
+        <dataNasc>2000-11-13</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38206">
+        <nome>Jose Manuel Araujo Soares</nome>
+        <dataNasc>1999-03-11</dataNasc>
+        <curso>CS14</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A35398">
+        <nome>Jose Manuel Esteves</nome>
+        <dataNasc>2003-11-22</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A32480">
+        <nome>Jose Manuel Lima Gandarela</nome>
+        <dataNasc>2005-12-23</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A30213">
+        <nome>Jose Manuel Loureiro De Azevedo Teixeira</nome>
+        <dataNasc>1997-01-06</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A22670">
+        <nome>Jose Manuel Teixeira Fernandes</nome>
+        <dataNasc>2001-09-06</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A33182">
+        <nome>Jose Miguel Dos Santos Ferraz</nome>
+        <dataNasc>2002-05-16</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A28722">
+        <nome>Jose Miguel Ferreira Pontes</nome>
+        <dataNasc>2004-06-07</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38121">
+        <nome>Jose Miguel Rodrigues Oliveira Da Silva</nome>
+        <dataNasc>2003-12-25</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35334">
+        <nome>Jose Miguel Silva Peixoto De Carvalho</nome>
+        <dataNasc>2002-06-03</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A38136">
+        <nome>Jose Nuno Martins Pinto Fraga</nome>
+        <dataNasc>2003-09-05</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A35335">
+        <nome>Jose Paulo Carneiro De Melo Mamede</nome>
+        <dataNasc>1999-07-15</dataNasc>
+        <curso>CS11</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A35337">
+        <nome>Jose Pedro Domingues</nome>
+        <dataNasc>1997-02-26</dataNasc>
+        <curso>CS16</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A38142">
+        <nome>Jose Pedro Faria E Vasconcelos Correia</nome>
+        <dataNasc>2005-08-19</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A38140">
+        <nome>Jose Pedro Machado Gomes</nome>
+        <dataNasc>2002-11-24</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A38137">
+        <nome>Jose Pedro Ribeiro Da Araujo</nome>
+        <dataNasc>2005-04-23</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38128">
+        <nome>Jose Pedro Rodrigues Magalhaes</nome>
+        <dataNasc>2005-10-13</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A30214">
+        <nome>Jose Pedro Silva De Oliveira Carvalho</nome>
+        <dataNasc>1998-05-08</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A23508">
+        <nome>Jose Romeu Fernandes Pinto</nome>
+        <dataNasc>2003-12-28</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38155">
+        <nome>Julio Andre Rodrigues Araujo</nome>
+        <dataNasc>1998-07-07</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A35843">
+        <nome>Lara Sofia Alpoim Miranda</nome>
+        <dataNasc>1997-07-16</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38150">
+        <nome>Leandro Emanuel Da Silva Salgado Barbosa</nome>
+        <dataNasc>2004-11-12</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A34035">
+        <nome>Leonor Isabel Constantino Caeiro Boga</nome>
+        <dataNasc>1997-08-21</dataNasc>
+        <curso>CS13</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A24839">
+        <nome>Leonor Isabel Ferreira De Melo Osorio Araujo</nome>
+        <dataNasc>2000-10-01</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A35339">
+        <nome>Lidia Nogueira Laranjeira</nome>
+        <dataNasc>2004-07-15</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A35340">
+        <nome>Liliana Solange Sequeira Henriques De Macedo</nome>
+        <dataNasc>1997-02-22</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A33650">
+        <nome>Luis Andre Da Cunha Marques</nome>
+        <dataNasc>2000-06-15</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A35342">
+        <nome>Luis Carlos Goncalo Leonardo</nome>
+        <dataNasc>2002-11-10</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A38223">
+        <nome>Luis Diogo Monteiro Duarte Couto</nome>
+        <dataNasc>1998-03-05</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A39341">
+        <nome>Luis Fernando Romanel Rodrigues</nome>
+        <dataNasc>2003-06-18</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A39408">
+        <nome>Luis Filipe Faria Monteiro Capelo</nome>
+        <dataNasc>1997-09-22</dataNasc>
+        <curso>CS16</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A33186">
+        <nome>Luis Filipe Gama Pais Cabral</nome>
+        <dataNasc>2005-11-19</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A38219">
+        <nome>Luis Filipe Pereira Goncalves</nome>
+        <dataNasc>2002-03-21</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A29631">
+        <nome>Luis Filipe Ribeiro Novais</nome>
+        <dataNasc>1997-10-03</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A39747">
+        <nome>Luis Pedro Ferreira Leite Dos Santos Aleixo</nome>
+        <dataNasc>2002-10-01</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A33188">
+        <nome>Luis Pedro Lopes Pereira</nome>
+        <dataNasc>2004-08-09</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38172">
+        <nome>Luis Tiago Afonso Mascarenhas</nome>
+        <dataNasc>2001-08-03</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38168">
+        <nome>Luiz Alberto De Castro Santos</nome>
+        <dataNasc>2002-04-06</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A38254">
+        <nome>Manuel Domingos De Carvalho Felgueiras Da Silva Santos</nome>
+        <dataNasc>2000-11-07</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A30219">
+        <nome>Manuel Fernando Soto Maior Franqueira</nome>
+        <dataNasc>2000-05-22</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A35348">
+        <nome>Manuel Jose Gomes Meireles</nome>
+        <dataNasc>2001-02-21</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A27637">
+        <nome>Manuel Jose Torres Sousa Da Cunha</nome>
+        <dataNasc>2001-05-15</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A29004">
+        <nome>Marangaze Joaquim Munhepe Mulhanga</nome>
+        <dataNasc>2005-06-13</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A35349">
+        <nome>Marcia Marlene De Almeida Martins</nome>
+        <dataNasc>2003-08-03</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A35350">
+        <nome>Marcial Coelho Gomes</nome>
+        <dataNasc>1997-06-22</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A39406">
+        <nome>Marco Alexandre Aguiar Vaz</nome>
+        <dataNasc>2003-10-28</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A29011">
+        <nome>Marco Alexandre Barreira Medeiros Teixeira</nome>
+        <dataNasc>2004-02-13</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A38178">
+        <nome>Marco Alexandre Teixeira Palos</nome>
+        <dataNasc>2000-02-05</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38152">
+        <nome>Marco Antonio Sampaio Freitas De Castro</nome>
+        <dataNasc>2005-11-13</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38179">
+        <nome>Marco Antonio Teixeira Martins</nome>
+        <dataNasc>1998-03-14</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A22685">
+        <nome>Marco Francisco Da Silva Lizardo</nome>
+        <dataNasc>1999-06-17</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A22688">
+        <nome>Marco Ricardo Barbosa Coelho</nome>
+        <dataNasc>1998-11-18</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A36864">
+        <nome>Maria Beatriz Alves De Sa Campos</nome>
+        <dataNasc>2005-02-16</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A38184">
+        <nome>Maria Cristina Carneiro Barreira</nome>
+        <dataNasc>1998-10-24</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A12753">
+        <nome>Maria Luisa Villaverde Machado Fernandes Novais</nome>
+        <dataNasc>2004-05-17</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38161">
+        <nome>Mariana Pereira Neves</nome>
+        <dataNasc>2000-07-02</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38171">
+        <nome>Mario Andre Patricio Teixeira Julio</nome>
+        <dataNasc>1998-04-09</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A38194">
+        <nome>Mario Da Fonte Lameiras</nome>
+        <dataNasc>1997-01-08</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A23544">
+        <nome>Mario Rui Anunciacao Monteiro</nome>
+        <dataNasc>2003-09-09</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A29048">
+        <nome>Mario Rui Ribeiro Fialho Da Conceicao</nome>
+        <dataNasc>1996-07-25</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A36454">
+        <nome>Michel Ferreira Pinto</nome>
+        <dataNasc>2001-09-12</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A35352">
+        <nome>Miguel Afonso Pires Da Rosa</nome>
+        <dataNasc>1998-08-18</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A38217">
+        <nome>Miguel Angelo Marques De Matos</nome>
+        <dataNasc>2000-06-22</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A38209">
+        <nome>Miguel Angelo Pinto Marques</nome>
+        <dataNasc>1997-11-10</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A30226">
+        <nome>Miguel Angelo Ribeiro De Sousa E Silva</nome>
+        <dataNasc>2001-02-09</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38221">
+        <nome>Miguel Angelo Vivas Gomes Alves</nome>
+        <dataNasc>1999-11-28</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A21432">
+        <nome>Miguel Manuel Gomes Rodrigues</nome>
+        <dataNasc>2005-11-15</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A39342">
+        <nome>Miguel Pedro Amaral Figueiredo</nome>
+        <dataNasc>2002-08-18</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A32608">
+        <nome>Miguel Pedro De Almeida Ferreira Correia Dourado</nome>
+        <dataNasc>1997-09-12</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A33195">
+        <nome>Miguel Pinto De Sousa Marques</nome>
+        <dataNasc>2003-01-11</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A22695">
+        <nome>Nancy Do Sameiro Silverio Lavandeira</nome>
+        <dataNasc>1996-09-17</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38216">
+        <nome>Nelson De Sousa E Silva</nome>
+        <dataNasc>1996-09-14</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A33196">
+        <nome>Nelson Filipe Coelho De Moura Sousa</nome>
+        <dataNasc>1998-12-23</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A33420">
+        <nome>Nelson Leandro Barbosa Carneiro</nome>
+        <dataNasc>2004-05-01</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38195">
+        <nome>Nelson Tavares Cunha</nome>
+        <dataNasc>2005-07-09</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A33727">
+        <nome>Nuno Filipe Antunes Da Silva</nome>
+        <dataNasc>2003-02-13</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A33127">
+        <nome>Nuno Filipe Magalhaes Santos</nome>
+        <dataNasc>2004-03-25</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A24784">
+        <nome>Nuno Filipe Marques Moreira Ribeiro</nome>
+        <dataNasc>2000-06-07</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38208">
+        <nome>Nuno Goncalo Bettencourt Da Cruz Correia</nome>
+        <dataNasc>1998-03-14</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38203">
+        <nome>Nuno Jorge Ferreira Guimaraes</nome>
+        <dataNasc>2004-10-11</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A15619">
+        <nome>Nuno Miguel Afonso Carvalho De Moura</nome>
+        <dataNasc>1996-11-23</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A35355">
+        <nome>Nuno Miguel Machado Alves Costa</nome>
+        <dataNasc>1998-02-09</dataNasc>
+        <curso>CS15</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A33437">
+        <nome>Nuno Miguel Marques Gomes</nome>
+        <dataNasc>2001-07-12</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A22701">
+        <nome>Nuno Miguel Martins Casanova</nome>
+        <dataNasc>2005-10-13</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A27645">
+        <nome>Nuno Miguel Oliveira Silva</nome>
+        <dataNasc>2005-05-25</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A29282">
+        <nome>Nuno Viriato Macedo Ferreira De Carvalho</nome>
+        <dataNasc>2004-03-06</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38120">
+        <nome>Octavio David Da Conceicao Jacinto</nome>
+        <dataNasc>2000-03-28</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A14539">
+        <nome>Orlando Jorge Goncalves Pinto</nome>
+        <dataNasc>1997-06-18</dataNasc>
+        <curso>CS11</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A33280">
+        <nome>Paulo Bruno Da Silva Vides Fernandes</nome>
+        <dataNasc>2004-01-18</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A34508">
+        <nome>Paulo Cesar Almeida De Sa</nome>
+        <dataNasc>2002-03-05</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A27577">
+        <nome>Paulo Cesar De Carvalho Lopes</nome>
+        <dataNasc>2004-12-20</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A39938">
+        <nome>Paulo Cesar Romanel Rodrigues</nome>
+        <dataNasc>1996-08-18</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A33204">
+        <nome>Paulo Eduardo Miranda Campos</nome>
+        <dataNasc>2003-09-02</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A38122">
+        <nome>Paulo Jorge Assis De Sousa</nome>
+        <dataNasc>2002-11-13</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A35357">
+        <nome>Paulo Jorge Fernandes De Sousa</nome>
+        <dataNasc>2001-02-12</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A30238">
+        <nome>Paulo Jorge Soares Mendes</nome>
+        <dataNasc>2003-11-16</dataNasc>
+        <curso>CB22</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I22</instrumento>
+    </aluno>
+    <aluno id="A39407">
+        <nome>Paulo Manuel Ribeiro Novais</nome>
+        <dataNasc>2004-11-26</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A33209">
+        <nome>Paulo Miguel Sa Morais Pires</nome>
+        <dataNasc>1998-09-06</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A36476">
+        <nome>Pedro Alexandre Ferreira Vilaca</nome>
+        <dataNasc>1996-08-20</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A35360">
+        <nome>Pedro Daniel Ferreira De Carvalho</nome>
+        <dataNasc>2002-09-09</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A21711">
+        <nome>Pedro David Alves Martinho</nome>
+        <dataNasc>2003-09-01</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A32652">
+        <nome>Pedro Duarte Cardoso Lopes</nome>
+        <dataNasc>1999-12-23</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A36969">
+        <nome>Pedro Emanuel Fernandes Lopes</nome>
+        <dataNasc>2003-10-21</dataNasc>
+        <curso>CB14</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I14</instrumento>
+    </aluno>
+    <aluno id="A33213">
+        <nome>Pedro Guimaraes De Freitas</nome>
+        <dataNasc>1999-11-03</dataNasc>
+        <curso>CS12</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A30241">
+        <nome>Pedro Henrique Goncalves Geraz Rodrigues</nome>
+        <dataNasc>1996-07-14</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A33214">
+        <nome>Pedro Jorge Osorio Marinho Oliveira</nome>
+        <dataNasc>2004-06-08</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A38116">
+        <nome>Pedro Jose Martins Faria</nome>
+        <dataNasc>1997-11-10</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A35144">
+        <nome>Pedro Manuel De Amorim Magalhaes</nome>
+        <dataNasc>1999-07-26</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A38118">
+        <nome>Pedro Manuel Lopes Patricio</nome>
+        <dataNasc>2004-11-09</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A27658">
+        <nome>Pedro Miguel Araujo Mota Lopes</nome>
+        <dataNasc>2003-11-12</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A38159">
+        <nome>Pedro Miguel Azevedo De Oliveira</nome>
+        <dataNasc>1998-11-26</dataNasc>
+        <curso>CS16</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A35363">
+        <nome>Pedro Miguel Da Silva Araujo</nome>
+        <dataNasc>2000-07-02</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A25383">
+        <nome>Pedro Miguel Martins Fernandes</nome>
+        <dataNasc>2002-11-16</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A35364">
+        <nome>Pedro Miguel Meira Das Neves</nome>
+        <dataNasc>2001-05-18</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A33524">
+        <nome>Pedro Miguel Paes Machado</nome>
+        <dataNasc>1997-04-10</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35855">
+        <nome>Pedro Miguel Pinto Ribeiro</nome>
+        <dataNasc>2004-02-21</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38147">
+        <nome>Pedro Miguel Ramos Madeira</nome>
+        <dataNasc>1997-06-22</dataNasc>
+        <curso>CS1</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A33281">
+        <nome>Pedro Miguel Soares Pinto</nome>
+        <dataNasc>1999-07-20</dataNasc>
+        <curso>CS11</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A30243">
+        <nome>Pedro Miguel Veiga Da Silva</nome>
+        <dataNasc>1999-02-05</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38149">
+        <nome>Pedro Silvestre Meneses Magalhaes Coelho</nome>
+        <dataNasc>1998-06-15</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38160">
+        <nome>Pedro Tiago Amorim De Brito</nome>
+        <dataNasc>2005-12-08</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A33082">
+        <nome>Pedro Tiago Dias Goncalves</nome>
+        <dataNasc>1997-02-14</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38154">
+        <nome>Rafael De Castro Carreira</nome>
+        <dataNasc>1999-01-25</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A38158">
+        <nome>Raul Graciano Oliveira Rodrigues</nome>
+        <dataNasc>1996-07-16</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A30015">
+        <nome>Renato Cesar Almeida Figueiredo</nome>
+        <dataNasc>2003-02-05</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A39509">
+        <nome>Ricardo Andre Rodrigues Afonso</nome>
+        <dataNasc>1999-03-17</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A38153">
+        <nome>Ricardo Araujo Carvalho Vilaca Moreira</nome>
+        <dataNasc>2001-10-01</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A38151">
+        <nome>Ricardo Fernando Lira De Mesquita Lachado</nome>
+        <dataNasc>1999-12-09</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A38129">
+        <nome>Ricardo Gomes De Faria</nome>
+        <dataNasc>2003-04-24</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A33222">
+        <nome>Ricardo Jorge Almeida De Magalhaes</nome>
+        <dataNasc>2004-08-01</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A38130">
+        <nome>Ricardo Jorge Rodrigues Sepulveda Marques</nome>
+        <dataNasc>1996-03-15</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A34435">
+        <nome>Ricardo Jose Ferreira Dias De Oliveira</nome>
+        <dataNasc>2001-07-10</dataNasc>
+        <curso>CB4</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A19550">
+        <nome>Ricardo Manuel Rodrigues De Oliveira Dimas</nome>
+        <dataNasc>2000-09-07</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A35366">
+        <nome>Ricardo Manuel Viana Magalhaes</nome>
+        <dataNasc>1999-10-15</dataNasc>
+        <curso>CS15</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A22721">
+        <nome>Ricardo Nuno Moreira Castilho Ferreira Lopes</nome>
+        <dataNasc>1999-05-27</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A30254">
+        <nome>Roque Manuel De Carvalho Teixeira</nome>
+        <dataNasc>2000-02-17</dataNasc>
+        <curso>CS10</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A18770">
+        <nome>Rosa Alexandra Azevedo Guimaraes</nome>
+        <dataNasc>2005-06-21</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A38141">
+        <nome>Ruben Filipe Cardoso Da Fonseca</nome>
+        <dataNasc>2005-01-08</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38200">
+        <nome>Rui Alexandre Serrano De Moura</nome>
+        <dataNasc>2002-09-28</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A36764">
+        <nome>Rui Andre Ferreira Silva</nome>
+        <dataNasc>2001-04-26</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38135">
+        <nome>Rui Andre Leite Ribeiro</nome>
+        <dataNasc>2001-05-09</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A39944">
+        <nome>Rui Antonio Peixoto De Abreu</nome>
+        <dataNasc>1998-12-19</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A38148">
+        <nome>Rui Domingos Guimaraes Salgado</nome>
+        <dataNasc>1997-10-24</dataNasc>
+        <curso>CS21</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A33228">
+        <nome>Rui Filipe Barros Tavares</nome>
+        <dataNasc>2001-10-11</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A38146">
+        <nome>Rui Filipe Torres Alexandre</nome>
+        <dataNasc>2002-06-22</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A38908">
+        <nome>Rui Jorge De Oliveira Pereira</nome>
+        <dataNasc>2004-01-17</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A35371">
+        <nome>Rui Jorge Guimaraes Machado Rodrigues Valente</nome>
+        <dataNasc>2001-05-14</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A24875">
+        <nome>Rui Manuel Couto Da Silva</nome>
+        <dataNasc>1996-01-25</dataNasc>
+        <curso>CS16</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A37029">
+        <nome>Rui Manuel Da Silva Pereira Neiva</nome>
+        <dataNasc>1998-11-20</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A33229">
+        <nome>Rui Manuel Silva Oliveira</nome>
+        <dataNasc>2005-08-19</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A38119">
+        <nome>Rui Miguel Da Silva Abreu</nome>
+        <dataNasc>2003-12-24</dataNasc>
+        <curso>CB12</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I12</instrumento>
+    </aluno>
+    <aluno id="A24876">
+        <nome>Rui Miguel Escudeiro Da Costa Aguiar</nome>
+        <dataNasc>1997-05-17</dataNasc>
+        <curso>CS17</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A29253">
+        <nome>Rui Miguel Fernandes Varela</nome>
+        <dataNasc>2003-04-15</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A25868">
+        <nome>Rui Miguel Morais Lopes</nome>
+        <dataNasc>2000-03-05</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A28735">
+        <nome>Rui Miguel Novais Castro</nome>
+        <dataNasc>1996-07-25</dataNasc>
+        <curso>CS18</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A27673">
+        <nome>Rui Miguel Pereira Oliveira</nome>
+        <dataNasc>2003-10-06</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35372">
+        <nome>Rui Pedro Andias Duarte</nome>
+        <dataNasc>2001-02-03</dataNasc>
+        <curso>CB10</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I10</instrumento>
+    </aluno>
+    <aluno id="A33234">
+        <nome>Sandra Maria Oliveira Carvalho</nome>
+        <dataNasc>2002-08-01</dataNasc>
+        <curso>CB5</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A36765">
+        <nome>Sandra Maria Teles Feio Almeida Fazendeiro</nome>
+        <dataNasc>1997-11-18</dataNasc>
+        <curso>CS15</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38173">
+        <nome>Sebastiao Monteiro Simoes</nome>
+        <dataNasc>2003-02-10</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38183">
+        <nome>Sergio Branco Amorim</nome>
+        <dataNasc>1999-12-26</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A33235">
+        <nome>Sergio De Almeida Paiva</nome>
+        <dataNasc>2001-11-16</dataNasc>
+        <curso>CB16</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I16</instrumento>
+    </aluno>
+    <aluno id="A39343">
+        <nome>Sergio Feliciano Ferreira Jacome</nome>
+        <dataNasc>2002-04-11</dataNasc>
+        <curso>CB17</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I17</instrumento>
+    </aluno>
+    <aluno id="A39410">
+        <nome>Sergio Filipe Pereira Da Felicidade</nome>
+        <dataNasc>1996-05-09</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="A35374">
+        <nome>Sergio Manuel Pereira Barreiro</nome>
+        <dataNasc>2002-03-14</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A24885">
+        <nome>Sergio Manuel Ruivo Cardoso</nome>
+        <dataNasc>2001-01-28</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A38177">
+        <nome>Sergio Nuno Claro Gomes</nome>
+        <dataNasc>1999-03-27</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A35375">
+        <nome>Sergio Ricardo Teixeira Andias Miranda</nome>
+        <dataNasc>2002-10-09</dataNasc>
+        <curso>CB6</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I6</instrumento>
+    </aluno>
+    <aluno id="A38181">
+        <nome>Sofia Da Conceicao Alves Mendes</nome>
+        <dataNasc>2001-11-23</dataNasc>
+        <curso>CB21</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I21</instrumento>
+    </aluno>
+    <aluno id="A33238">
+        <nome>Sonia Andrea Garrido De Sa Eiras</nome>
+        <dataNasc>2001-12-02</dataNasc>
+        <curso>CB18</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I18</instrumento>
+    </aluno>
+    <aluno id="A35376">
+        <nome>Telma De Fatima Pires De Sa</nome>
+        <dataNasc>2002-06-07</dataNasc>
+        <curso>CB3</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A38131">
+        <nome>Tiago Daniel Cerqueira Botelho Da Silva</nome>
+        <dataNasc>1997-09-22</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A33240">
+        <nome>Tiago Jorge Gomes Da Silva Araujo</nome>
+        <dataNasc>2003-06-24</dataNasc>
+        <curso>CB15</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I15</instrumento>
+    </aluno>
+    <aluno id="A38144">
+        <nome>Tiago Leandro De Castro Ribeiro</nome>
+        <dataNasc>1998-05-17</dataNasc>
+        <curso>CS13</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A38145">
+        <nome>Tiago Miguel Soares Fernandes</nome>
+        <dataNasc>1996-02-15</dataNasc>
+        <curso>CS19</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A29254">
+        <nome>Tito Jose Ferreira De Sousa Lopes</nome>
+        <dataNasc>1997-05-02</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A35418">
+        <nome>Valter Miguel Oliveira Vilar</nome>
+        <dataNasc>1996-11-18</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A38127">
+        <nome>Vanessa Alzira Abrunhosa Carneiro De Castro Fidalgo</nome>
+        <dataNasc>1999-06-19</dataNasc>
+        <curso>CS4</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I4</instrumento>
+    </aluno>
+    <aluno id="A33282">
+        <nome>Virgilio Abrantes Vinha</nome>
+        <dataNasc>1998-11-02</dataNasc>
+        <curso>CS3</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I3</instrumento>
+    </aluno>
+    <aluno id="A30266">
+        <nome>Vitor Carlos Teixeira Pimentel</nome>
+        <dataNasc>2004-05-26</dataNasc>
+        <curso>CB9</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="A35377">
+        <nome>Vitor Da Costa Pinheiro</nome>
+        <dataNasc>2001-06-03</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A38192">
+        <nome>Vitor Hugo Da Silva Nogueira</nome>
+        <dataNasc>1997-03-20</dataNasc>
+        <curso>CS5</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I5</instrumento>
+    </aluno>
+    <aluno id="A35378">
+        <nome>Vitor Hugo Pereira Da Silva Moreira</nome>
+        <dataNasc>2004-04-08</dataNasc>
+        <curso>CB11</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I11</instrumento>
+    </aluno>
+    <aluno id="A38182">
+        <nome>Vitor Manuel Alves Da Rocha</nome>
+        <dataNasc>1998-11-28</dataNasc>
+        <curso>CS20</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="A36773">
+        <nome>Vitor Manuel Carvalho Rodrigues</nome>
+        <dataNasc>2001-02-25</dataNasc>
+        <curso>CB13</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I13</instrumento>
+    </aluno>
+    <aluno id="A39671">
+        <nome>Vitor Manuel Pinto Lopes</nome>
+        <dataNasc>2000-05-19</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>8</anoCurso>
+        <instrumento>I8</instrumento>
+    </aluno>
+    <aluno id="A27648">
+        <nome>Nuno Ramos Matos</nome>
+        <dataNasc>2001-11-03</dataNasc>
+        <curso>CB7</curso>
+        <anoCurso>1</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A27620">
+        <nome>Joao Andre Faria Lopes</nome>
+        <dataNasc>2001-02-10</dataNasc>
+        <curso>CB19</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>I19</instrumento>
+    </aluno>
+    <aluno id="A33199">
+        <nome>Nuno Filipe Mendes Pereira</nome>
+        <dataNasc>2004-01-14</dataNasc>
+        <curso>CB20</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>I20</instrumento>
+    </aluno>
+    <aluno id="AE-939">
+        <nome>Jorge Gonzalez Y Hurtado De Mendoza</nome>
+        <dataNasc>1999-10-10</dataNasc>
+        <curso>CS2</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>I2</instrumento>
+    </aluno>
+    <aluno id="AE-922">
+        <nome>Brais Hernandez Facal</nome>
+        <dataNasc>1997-09-01</dataNasc>
+        <curso>CS9</curso>
+        <anoCurso>7</anoCurso>
+        <instrumento>I9</instrumento>
+    </aluno>
+    <aluno id="AE-907">
+        <nome>Oscar Lopez Garcia</nome>
+        <dataNasc>2004-12-09</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I1</instrumento>
+    </aluno>
+    <aluno id="A1">
+        <nome>Eusébio Da Silva Ferreira</nome>
+        <dataNasc>2001-09-13</dataNasc>
+        <curso>CS7</curso>
+        <anoCurso>2</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <aluno id="A2">
+        <nome>Tiago</nome>
+        <dataNasc>1988-12-09</dataNasc>
+        <curso>CS8</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno>
+    <!--aluno id="B69">
+        <nomes>
+            <nome>Tiago</nome>
+            <nome>João</nome>
+            <nome>Ferreira</nome>
+        </nomes>
+        <dataNascs>
+            <dataNasc>1988-12-10</dataNasc>
+            <dataNasc>1988-12-11</dataNasc>
+            <dataNasc>1988-12-12</dataNasc>
+        </dataNascs>
+        <cursos>
+            <curso>CS3</curso>
+            <curso>CS4</curso>
+            <curso>CS5</curso>
+        </cursos>
+        <anoCurso>3</anoCurso>
+        <instrumento>I7</instrumento>
+    </aluno-->
+</alunos>

@@ -1,0 +1,12 @@
+
+
+//--- DATASETS LOG ---//
+
+Diferenças em relação aos últimos datasets (Datasets2 em http://www4.di.uminho.pt/~jcr/AULAS/pri2015/projeto/):
+
+- Períodos e habilitacoes em ficheiros próprios;
+- Normalização: id em cada entidade; referências a outras entidades através do id;
+- Nomes de alunos e professores com apenas a primeira letra maiuscula em cada palavra;
+- Datas para o formato yyyy-mm-dd (em vez de yyyy-m?m-d?d);
+- Descrições das obras com pelicas em vez de aspas (dá problemas no antlr).
+

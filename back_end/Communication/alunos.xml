@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>    
+    <aluno id="A61003">
+        <nome>Emanuel Fernandes</nome>
+        <dataNasc>1992-08-01</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>Clarinete</instrumento>
+    </aluno>
+    <aluno id="A61071">
+        <nome>Pedro Duarte</nome>
+        <dataNasc>1992-04-25</dataNasc>
+        <curso>CB1</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>Clarinete</instrumento>
+    </aluno>
+</alunos>

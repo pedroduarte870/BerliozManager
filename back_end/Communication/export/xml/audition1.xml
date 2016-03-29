@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auditions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="/var/www/html/BerliozManager/back_end/export/audition.xsd">
+    <audition>
+        <metadata>
+            <title>Audição de Cordas</title>
+            <subtitle>Avaliação dos alunos de cordas</subtitle>
+            <subject>Cordas</subject>
+            <organizer>Joaquim de Almeida</organizer>
+            <place>Auditório A4</place>
+            <date>01/03/2016</date>
+            <time>14h00</time>
+            <duration>2h</duration>
+        </metadata>
+        <performances>
+            <performance>
+                <group>Grupo de Cordas</group>
+                <leaders>
+                    <leader>ALVARO ZÉ DE CASTRO MOREIRA DA SILVA</leader>
+                    <leader>PEDRO MANUEL VIEIRA SANTOS PINTO</leader>
+                </leaders>
+                <performers>
+                    <performer>Eusébio da Silva Ferreira</performer>
+                </performers>
+                <plays>
+                    <play>Funeral March in Memory of Rikard Nordraak</play>
+                    <play>Singet dem Herrn ein neues Lied</play>
+                </plays>
+            </performance>    
+        </performances>
+    </audition>    
+</auditions>

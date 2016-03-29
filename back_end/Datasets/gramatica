@@ -1,0 +1,16 @@
+Escola   ---> Curso+ Audição+
+
+Curso    ---> IdCurso Professor+ Aluno+
+
+Audição  ---> IdAudição Actuação+
+
+Actuação ---> Peça+
+
+Peça     ---> Obra Maestro Músico+
+
+Obra     ---> Titulo Compositor Tema
+
+Maestro  ---> Professor
+
+Músico   ---> Aluno | Professor
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno id="A6566">
+        <nome>Hugo Pereira</nome>
+        <dataNasc>2001-5-3</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>5</anoCurso>
+        <instrumento>Contrabaixo</instrumento>
+    </aluno>
+    <aluno id="A58547">
+        <nome>Rui Figo</nome>
+        <dataNasc>2002-7-6</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>Flauta</instrumento>
+    </aluno>
+    <aluno id="A36539">
+        <nome>Vasco Silva</nome>
+        <dataNasc>2001-11-20</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>Guitarra</instrumento>
+    </aluno>
+</alunos>

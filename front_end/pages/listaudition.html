@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Berlioz Manager</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="../bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+    <!-- DataTables CSS -->
+    <link href="../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+
+    <!-- DataTables Responsive CSS -->
+    <link href="../bower_components/datatables/media/js/jquery.dataTables.min.js" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="../bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">BerliozManager</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Berlioz Manager</a>
+            </div>          
+
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+                                <input type="text" class="form-control" placeholder="Search...">
+                                <span class="input-group-btn">
+                                <button class="btn btn-default" type="button">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                            </div>
+                            <!-- /input-group -->
+                        </li>
+                        
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Students<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="liststudent.html">List of students</a>
+                                </li>
+                                <li>
+                                    <a href="addstudent.html">Add studend</a>
+                                </li>
+                                <li>
+                                    <a href="listgroup.html">List of groups</a>
+                                </li>
+                                <li>
+                                    <a href="addgroup.html">Add group</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Teachers<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listteacher.html">List of teachers</a>
+                                </li>
+                                <li>
+                                    <a href="addteacher.html">Add teacher</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Pieces & Composers<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listpiece.html">List of pieces</a>
+                                </li>
+                                <li>
+                                    <a href="listcomposer.html">List of composers</a>
+                                </li>
+                                <li>
+                                    <a href="addpiece.html">Add pieces</a>
+                                </li>
+                                <li>
+                                    <a href="addcomposer.html">Add composer</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Courses<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listcourse.html">List of courses</a>
+                                </li>
+                                <li>
+                                    <a href="addcourse.html">Add course</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Auditions<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listaudition.html">List of auditions</a>
+                                </li>
+                                <li>
+                                    <a href="addaudition.html">Add audition</a>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+
+        <div id="page-wrapper">
+<!--        -->
+        
+        
+<!--        -->
+            <div>
+                <div class="row" id="update" style="display:none" >
+                    <div class="col-lg-12">
+                        <div class="panel panel-default">
+                            
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a href="#g4" data-toggle="tab" aria-expanded="false">TEXT</a>
+                                </li>
+                                
+                                <li class=""><a href="#log" data-toggle="tab" aria-expanded="true">LOG</a>
+                                </li>
+                            </ul>
+                            
+                            <div class="panel-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane fade active in col-lg-8" id="g4">
+                                        <div class="form-group">
+                                            <label>Grammar area</label>
+                                            <b><textarea id="textArea" class="form-control" rows="29">
+                                                
+                                            </textarea></b>
+                                            
+                                        </div>
+                                        <button onClick="addBox()" class="btn btn-default">ADD</button>
+                                    </div>                           
+                                    <div class="tab-pane fade" id="log">
+                                        <h4>Audition planning log</h4>
+                                        <div id="logA">
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                <!-- /.row (nested) -->
+                            </div>
+                            <!-- /.panel-body -->
+                        </div>
+                        <!-- /.panel -->
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+                <div class="tab-pane fade active in" id = "edittablehide" style="display:none">
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-12" class="panel-heading">
+                                <div class="col-lg-8">
+                                    <h1>Consult Audition</h1>                                                           
+                                </div>
+
+                                <div class="col-lg-2" >
+                                <br>
+                                        <form action="../../back_end/Communication/export/pdf.php" method="post">
+                                            <input type="text" hidden="true" id="id-audition-pdf" name="id-pdf">
+                                            <button type="submit"  class="btn btn-danger">Audition to PDF</button>
+                                        </form>
+                                </div>
+                                <div class="col-lg-2" >
+                                <br>
+                                        <form action="../../back_end/Communication/export/html.php" method="post">
+                                            <input type="text" hidden="true" id="id-audition-html" name="id-html">
+                                        <button type="submit"  class="btn btn-success">Audition HTML</button>
+                                        </form>                                                       
+                                </div>
+                            </div>
+                        </div>
+                    <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                           <h4>Title: <b id="a1"></b></h4>
+                             <h5> Subtitle: <b id="a2"></b></h5>
+                             <h5> Subject: <b id="a3"></b></h5>
+                             <h5> Local: <b id="a4"></b></h5>
+                             <h5> Date: <b id="a5"></b></h5>
+                             <h5> Time: <b id="a6"></b></h5>
+                             <h5> Duration: <b  id="a7"></b></h5>
+
+                        </div>
+                    </div>
+                        <!-- .panel-heading -->
+                <div class="col-lg-12" id = "general">
+                   
+                </div>
+                    <hr>
+                                <div>
+                                <button type="button" onclick="goback()" class="btn btn-info">Go Back</button>
+                                </div>
+                    <!-- /.panel -->
+                
+                    </div>
+
+                </div>
+            </div>   
+            <div class="row" id ="tablemanager">
+                <div class="col-lg-12">
+                    <h1 class="page-header">List of Auditions</h1>
+                </div>
+                <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="dataTable_wrapper">
+                                <table class="table table-striped table-bordered table-hover" id="AuditionTable">
+                                    
+                                </table>
+                            </div>                            
+                        </div>
+
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            </div>
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="../bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+    <!-- DataTables JavaScript -->
+    <script src="../bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
+    <script src="../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../dist/js/sb-admin-2.js"></script>
+
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <script>
+    $(document).ready(function() {
+    $.ajax({
+          url: '../../back_end/Communication/auditions.php',
+          type: 'post',
+          data: { "request": "list" },
+          success: function(response) {
+            // window.alert(response);
+              auditions = JSON.parse(response);
+            // window.alert(auditions);
+               body= document.getElementById("tbody");
+               $('#AuditionTable').DataTable({
+                responsive: true,
+                data: auditions,
+                columns: [
+            { title: "ID" },
+            { title: "Title" },
+            { title: "Subtitle" },
+            { title: "Subject" },
+            { title: "Place" },
+            { title: "Date" },
+            { title: "Time" },
+            { title: "Duration" },
+            { title: "Edit"},
+            { title: "Remove"},
+            { title: "Consult"}
+        ]
+                 });
+              
+          },
+          error: function(err) {
+            window.alert("Error while listing Auditions");
+          }
+      });
+    
+    });
+	
+	
+
+    function goback() {
+
+           location.reload();
+        }
+
+    function consultaudition(ID) {
+         
+         document.getElementById("tablemanager").style.display = "none";
+         document.getElementById("edittablehide").style.display = "block";
+
+          $.ajax({
+          url: '../../back_end/Communication/auditions.php',
+          type: 'post',
+          data: { "request": "audition" , "id": ID  },
+          success: function(response) {
+            
+              audition = JSON.parse(response);
+            //window.alert(response);
+              $("#a1").text(audition[1]);
+              $("#a2").text(audition[2]);
+              $("#a3").text(audition[3]);
+              $("#a4").text(audition[4]);
+              $("#a5").text(audition[5]);
+              $("#a6").text(audition[6]);
+              $("#a7").text(audition[7]);
+              $("#id-audition-pdf").val(audition[0]);
+              $("#id-audition-html").val(audition[0]);
+              
+            var nperform = audition[8].length;
+            var performances = audition[8];
+
+            for (i=0; i<nperform; i++){
+                var performance = performances[i];
+                string = '<div class="panel panel-primary"><div class="panel-heading">';
+                
+                
+               
+                var performers = performance[0];
+                var pieces = performance [2];
+                
+                    string += "(";  
+                    for (i2 = 0; i2 < performers.length; i2++){
+                        
+                        string += performers[i2];
+                         string += ", ";        
+                    }
+                    string += ")";  
+                 string += '</div>';
+                string += '<div class="panel-body"><div class="panel-group" id="accordion">';
+                var teachers = performance[1];
+                string += '<b>Leaders</b>: '+teachers+'.';
+                string += '<hr>';
+
+                for (i3=0;i3<pieces.length;i3++){
+                    string += '<div class="panel panel-default"><div class="panel-heading">';
+                    piece = pieces[i3];
+                    var colapse = Math.floor((Math.random() * 1500) + 1);
+                    string+= '<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#'+colapse+'" aria-expanded="false" class="collapsed">';
+                    string += '<b>Piece</b>: '+piece[1];
+                    string += '</a></h4>';
+                    string += '<div id="'+colapse+'" class="panel-collapse collapse" aria-expanded="false" style="height:0px;"><div class="panel-body">';
+                    string += '<b>Description</b>: '+piece[2]+ '<br>';
+                    string += '<b>Year</b>: '+piece[3]+ '<br>';
+                    string += '<b>Duration</b>: '+piece[4]+ '<br>';
+                    string += '<b>Composer</b>: '+piece[5]+ '<br>';
+
+                    string += '</div></div></div></div>';
+                }
+                
+                
+                
+                
+               
+
+
+
+                string += '</div></div>';
+                string += '</div></div>';
+                $("#general").append(string);
+
+
+            }            
+
+            // window.alert(students);
+
+          },
+          error: function(err) {
+            window.alert("Error while listing courses");
+          }
+
+          });
+         
+
+          }
+    </script>
+    <script>
+        
+        function removeaudition(ID){
+            
+           $.ajax({
+          url: '../../back_end/Communication/auditions.php',
+          type: 'post',
+          data: { "request": "removeA" , "id": ID },
+          success: function(response) {
+            // window.alert(response);
+             // auditions = JSON.parse(response);
+            // window.alert(auditions);
+              
+            location.reload();  
+          },
+          error: function(err) {
+            window.alert("Error while deleting Audition");
+          }
+      }); 
+            
+        }
+        
+               function editaudition(ID){
+         document.getElementById("tablemanager").style.display = "none";
+         document.getElementById("update").style.display = "block";
+         var output = ""; //placeholder for text output
+         var filePath = '../../back_end/Communication/export/txt/'+ID+'.txt'
+        
+         $.ajax({
+          url: '../../back_end/Communication/auditions.php',
+          type: 'post',
+          data: { "request": "textUP" , "id": ID },
+          success: function(response) {
+            // window.alert(response);
+             // auditions = JSON.parse(response);
+            // window.alert(auditions);
+              
+            //location.reload();  
+            $("#textArea").val(response);
+          },
+          error: function(err) {
+            window.alert("Error while deleting Audition");
+          }
+      });
+         
+         
+         /*
+        $.ajax({
+          url: '../../back_end/Communication/auditions.php',
+          type: 'post',
+          data: { "request": "removeA" , "id": ID },
+          success: function(response) {
+            // window.alert(response);
+             // auditions = JSON.parse(response);
+            // window.alert(auditions);
+              
+            location.reload();  
+          },
+          error: function(err) {
+            window.alert("Error while deleting Audition");
+          }
+      }); */
+        
+        }
+        
+            function addBox(){
+     text = $("#textArea").val();
+     //window.alert(text);
+     
+      $.ajax({
+         url: '../../back_end/Communication/auditions.php',
+         type: 'post',
+         data: { "request": "addBox" , "box" : text },
+           success: function(response) {
+                     errors = JSON.parse(response);
+                     var arr = response.split('","');
+                     var string = "";
+                     arr[0]=arr[0].replace('["','');
+                     arr[ arr.length-1]=arr[arr.length-1].replace('"]','');
+                     for(i=0; i < arr.length; i++){
+                     string+="<p>"+arr[i]+"</p>";
+                     }
+                     $("#logA").empty().append(string);
+               },
+         error: function(err) {
+                   window.alert("Error on communication!");
+                }
+       });
+     
+     }
+        
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auditions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/home/pedroduarte/%C3%81rea%20de%20Trabalho/audition.xsd">
+    <audition>
+        <metadata>
+            <title></title>
+            <subtitle></subtitle>
+            <subject></subject>
+            <organizer></organizer>
+            <place></place>
+            <date></date>
+            <time></time>
+            <duration></duration>
+        </metadata>
+        <performances>
+            <performance>
+                <leaders>
+                    <leader></leader>
+                </leaders>
+                <performers>
+                    <performer></performer>
+                </performers>
+                <plays>
+                    <play></play>
+                </plays>
+            </performance>
+        </performances>
+    </audition>
+</auditions>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report
+    xmlns="http://elpri.di.uminho.pt/report"
+    xmlns:p="http://elpri.di.uminho.pt/paragraph"
+    xmlns:l="http://elpri.di.uminho.pt/list"
+    xmlns:img="http://elpri.di.uminho.pt/image"
+    xmlns:t="http://elpri.di.uminho.pt/table">
+    <front-matter>
+        <meta>
+            <title>Processamento de Linguagens e Conhecimento</title>
+            <subtitle>Berlioz Manager - Um Gestor de Audições/Concertos Musicais</subtitle>
+            <authors>
+                <author>
+                    <name>Emanuel Fernandes</name>
+                    <identifier>a61003</identifier>
+                    <email>a61003@alunos.uminho.pt</email>
+                    <photo path="img/emanuel.jpg"/>
+                </author>
+                <author>
+                    <name>Pedro Duarte</name>
+                    <identifier>a61071</identifier>
+                    <email>a61071@alunos.uminho.pt</email>
+                    <photo path="img/pedro.jpg"/>
+                </author>                
+            </authors>
+            <date>2016-01-18</date>
+            <affil>Universidade do Minho</affil>
+        </meta>
+        <abstract>
+            <p:p>No âmbito do perfil Processamento de Linguagens e Conhecimento, do Mestrado em Engenharia Informática, este relatório pretende apresentar o Projecto de um Gestor de Audições/Concertos Musicais, adotando os conhecimentos adquiridos nas unidades curriculares de Gramáticas na Compreensão de Software e Processamento e Representação de Informação, bem como as decisões que foram tomadas e as suas dificuldades.</p:p>
+            <p:p>Este trabalho tem como objetivo principal desenvolver uma solução em base de dados para preencher uma necessidade específica de uma escola de música que ao longo de um ano letivo poderá ter que organizar dezenas ou centenas de audições e concertos.</p:p>
+        </abstract>
+        <toc/>
+        <lof/>
+    </front-matter>
+    <body>
+        <section>
+            <title>Estrutura do Relatório</title>
+            <p:p>Numa primeira fase, é apresentado o Resumo deste trabalho prático onde é descrito de forma bastante sucinta o problema e a motivação para encontrar a sua solução.</p:p>
+            <p:p>De seguida é apresentada a Introdução, onde é exposto o caso de estudo e onde é feita uma pequena contextualização do problema, bem como os objetivos a alcançar com este trabalho.</p:p>
+            <p:p>Seguidamente surge o Desenvolvimento onde são apresentados os capítulos que descrevem todo o processo para atingir a aplicação final, bem como as decisões que foram tomadas ao longo do projeto.</p:p>
+            <p:p>Por fim é apresentada a Conclusão onde o grupo faz uma apreciação crítica sobre o trabalho prático.</p:p>
+        </section>
+        <section>
+            <title>Introdução</title>
+            <subsection>
+                <title>Contextualização</title>
+                <p:p>Vivemos tempos difíceis com restrições a todos os níveis e com o tempo super acelerado. Neste contexto, ser-se competitivo é cada vez difícil e exigente.</p:p>
+                <p:p>Quando se pensa no mercado de desenvolvimento de software é cada vez mais difícil descobrir nichos de mercado ainda virgens. No entanto, é sempre possível descobrir nichos de necessidades específicas: muitas vezes as instituições adquirem grandes soluções que estão concebidas para o grande mercado genérico e que descuram as necessidades mais específicas. Ora, se rapidamente fosse possível desenvolver um componente que interoperasse com a grande aplicação e que resolvesse aquelas necessidades específicas poderiam sair daqui alguns pequenos produtos com uma economia de escala associada.</p:p>
+                <p:p>É neste contexto microaplicacional que se propôs este projeto.</p:p>
+                <p:p>Para tal fixou-se um tema que resultou de algumas conversas e vivências de um dos docentes: uma escola de música. Já existem várias aplicações para a gestão de escolas mas nenhuma resolve bem as especificidades de uma escola de música. Assim, depois de uma reunião com a direção de uma escola de música identificaram-se algumas necessidades específicas que poderão ser solucionadas por microaplicações: um gestor de audições/concertos e um gestor de programas específicos.</p:p>
+            </subsection>
+            <subsection>
+                <title>Caso de Estudo</title>
+                <p:p>O trabalho prático consiste no desenvolvimento de um gestor de dados, sendo populado com a informação contida em ficheiros XML, através de formulários e também através de uma notação rápida para criar audições escrita numa linguagem desenvolvida para esse efeito.</p:p>
+                
+                <p:p>A concretização deste projeto pressupõe a realização de um conjunto etapas. A realçar:</p:p>
+                <l:ul>
+                    <l:li>
+                        <p:p>Analisar os dados fornecidos pela equipa docente e os objetivos a atingir. Perceber as questões fundamentais do domínio do problema assim como tomar decisões quanto ao desenho da base dados e principais requisitos a cumprir.</p:p>
+                    </l:li>
+                    <l:li>
+                        <p:p>Decidir que metodologias e ferramentas usar.</p:p>
+                    </l:li>
+                    <l:li>
+                        <p:p>Desenhar o modelo da base dados, de maneira a poder armazenar e relacionar toda a informação importante presente nos arquivos de forma a satisfazer os requisitos do problema.</p:p>
+                    </l:li>
+                    <l:li>
+                        <p:p>Analisar e trabalhar cada fonte de dados separadamente. Processando e inserindo a informação na base de dados.</p:p>
+                    </l:li>
+                    <l:li>
+                        <p:p>Construção de uma interface gráfica para mostrar informação de forma simples.</p:p>
+                    </l:li>
+                </l:ul>
+            </subsection>
+            <subsection>
+                <title>Objetivos</title>
+                <p:p>Como foi mencionado anteriormente, o foco deste projeto passa por desenvolver um sistema capaz de gerir informação relativamente a uma escola de música, no que toca às suas inumeras audições e concertos que realizam ao longo do ano lectivo. E através dos conhecimentos adquiridos nas aulas, processar e validar essa informação e inserir informaticamente na base de dados. Tendo em conta os requisitos deste projeto, podemos dizer que o principal objetivo é criar, alterar, listar e consultar uma audição a partir de informação fornecida pelo utilizador;</p:p>
+                <p:p>A aplicação deverá garantir a persistência e consistência de dados com auxílio de um sistema de base de dados relacional.</p:p>
+            </subsection>
+            <subsection>
+                <title>Ferramentas</title>
+                <p:p>Para o desenvolvimento do nosso sistema precisamos de combinar um vasto conjunto de tecnologias que nos permitam simplificar o nosso trabalho. </p:p> 
+                <p:p>Para gerir e desenvolver paralelamente o código utilizámos o <p:b>Github</p:b>, que é um serviço de <p:i>web hosting</p:i> para o sistema de controlo de versões <p:b>Git</p:b>. Com a ajuda desta tecnologia, é mais fácil para o grupo discutir o código produzido, melhora-lo e juntar ao código já existente.</p:p>
+                <p:p>Em relação ao desenvolvimento, recorremos ao phpMyAdmin que é um aplicativo web desenvolvido em PHP para administração do MySQL pela Internet. A partir deste sistema é possível criar e remover bases de dados, criar, remover e alterar tabelas, inserir, remover e editar campos, executar códigos SQL e manipular campos chaves.</p:p>
+                <p:p>De forma facilitar o desenvolvimento da interface gráfica da aplicação web, utilizamos o <p:b>Bootstrap</p:b> que é uma coleção livre e open-source de ferramentas para criar sites e aplicações web. Ele contém HTML e modelos de design baseados em CSS para tipografia, formulários, botões, navegação e outros componentes, bem como extensões JavaScript opcionais. .</p:p>                
+                <p:p>No que diz respeito a manipulação de documentos, e também para a escrita deste relatório utilizámos as tecnologias dadas nas aulas tais como <p:b>DTD</p:b>, <p:b>XSLT</p:b> e <p:b>XSD</p:b>.</p:p>
+                <p:p>Usámos <p:i>ANTLR</p:i>, uma gramática de atributos e a liguagem de programação genérica <p:i>Java</p:i></p:p>.             
+            </subsection>
+            <subsection>
+                <title>Arquitectura usada</title>
+                <img:image path="img/arq.jpg">Arquitectura BerliozManager</img:image>
+                <p:p>Existe uma base de dados sql cujo modelo relacional foi criado usando o programa <p:i>Visual Paradigm</p:i> que injectou uma estrutura de dados, em baixo explicada, com base nos datasets fornecidos pelo docente. </p:p>
+                <p:p>Com esta base de dados comunicam os controladores do web site defenidos na linguagem <p:i>PHP</p:i> e a aplicação Java de suporte ao planeamento de audições com auxilio do <p:i>parse generator <p:b>ANTLR</p:b></p:i>.</p:p>
+                <p:p>A comunicação que existe entre a aplicação java e a base de dados SQL destina-se à inserção da informação que diz respeito a audições bem definidas. Outro papel da aplicação java é gerar ficheiros <p:i>XML e TXT</p:i> também com informação de audição para mais tarde o controlador do site usar para gerar ficheiros <p:i> HTML e PDF</p:i> </p:p>
+                <p:p>A parte que o utlizador visualiza, denominada front-end, foi desenvolvida em HTML com auxilio a bibliotecas de templates css Bootstrap. A correspondência de dados que se disponibiliza é obtida através da comunicação com o back-end com recurso a AJAX realizando POST's dos dados à medida que o utlizador realiza uma acção. O controlador em PHP analisa o request do front-end e devolve na maioria das vezes os dados pedidos em JSON que mais tarde são processados pelo front-end </p:p>
+                <p:p>Para os controladores comunicarem com a base de dados em SQL usa-se o <p:i>mysqli</p:i> para realizar querys podendo assim inserir, actualizar, apagar e consultar dados.   </p:p>
+            </subsection>
+            </section>
+        
+            <section>
+            <title>Desenvolvimento</title>
+            <subsection>
+                <title>Modelação</title>
+                <p:p>Neste secção pretende-se documentar e descrever o processo de aplicação de uma metodologia de desenho e arquitetura da base de dados que dá resposta às necessidades da nossa aplicação, <p:i>Berlioz Manager</p:i>.</p:p>
+                <subsubsection>
+                    <title>Identificação de Entidades</title>
+                    <p:p>Após a análise dos requisitos pretendidos para o projeto verificamos que era imprescindível haver as seguintes entidades:</p:p>
+                    <l:dl>
+                        <l:dt>Aluno</l:dt>
+                        <l:dt>Grupo</l:dt>
+                        <l:dt>Curso</l:dt>
+                        <l:dt>Professor</l:dt>
+                        <l:dt>Compositor</l:dt>
+                        <l:dt>Obra</l:dt>
+                        <l:dt>Actuação</l:dt>
+                        <l:dt>Instrumento</l:dt>
+                        <l:dt>Audição</l:dt>
+
+                    </l:dl>
+                    
+                    <p:p>Com a adição de alguns relacionamentos entre eles:</p:p>
+                    <l:dl>
+                        <l:dt>Grupo-Alunos</l:dt> Armazena a cada grupo, os id's dos alunos correspondentes;
+                        <l:dt>Obras-Actuações</l:dt> Associa os id's das obras às actuações correspondentes;
+                        <l:dt>Professores-Actuações</l:dt> Associa os id's dos professores às actuações correspondentes.
+                                               
+                    </l:dl>
+                </subsubsection>
+                <subsubsection>
+                    <title>Identificação dos relacionamentos entre entidades</title>
+                    <p:p>Depois de identificadas as principais entidades do sistema é necessário perceber quais as relações existentes entre cada entidade.</p:p>
+                    <l:dl>
+                        <l:dt>Curso(1) - tem - Aluno(N)</l:dt>
+                        <l:dd><p:p>Este relacionamento traduz o facto de um Curso ter vários alunos, mas um aluno estar inscrito a um e apenas um curso</p:p></l:dd>
+                        <l:dt>Grupo(N) - tem - Alunos(M)</l:dt>
+                        <l:dd><p:p>Um grupo é constituido por vários alunos. Mas um aluno pode estar em vários grupos</p:p></l:dd>
+                        <l:dt>Curso(1) - tem -  Instrumento(1)</l:dt>
+                        <l:dd><p:p>A cada curso é atribuído um instrumento</p:p></l:dd>
+                        <l:dt>Curso(1) -  tem -  Professor(N)</l:dt>
+                        <l:dd><p:p>Um curso é leccionado por vários professores</p:p></l:dd>
+                        <l:dt>Audição(1) - tem -  ActuaçõesN)</l:dt>
+                        <l:dd><p:p>Uma audição é constituída por várias actuações</p:p></l:dd>
+                        <l:dt>Actuação(1) - tem  -  Peça(N)</l:dt>
+                        <l:dd><p:p>Uma actuação é constituída por várias peças</p:p></l:dd>
+                        <l:dt>Compositor(1) - tem - Peça(N)</l:dt>
+                        <l:dd><p:p>Um compositor é autor de várias peças</p:p></l:dd>
+                        <l:dt>Actuação(1) - pode ter - Alunos(1)</l:dt>
+                        <l:dd><p:p>Uma actuação pode ser realizada por um aluno.</p:p></l:dd>
+                        <l:dt>Actuação(1) - pode ter - Grupo(1)</l:dt>
+                        <l:dd><p:p>Uma actuação pode ser realizada por um grupo de alunos.</p:p></l:dd>
+                    </l:dl>
+                </subsubsection>
+ 
+    
+                <subsubsection>
+                    <title>Esquema Físico</title>
+                    <p:p>Após a conclusão da identificação das relações conseguiu-se fazer o modelo físico da base de dados. Apresenta-se assim, as entidades, relações e atributos anteriores no modelo físico por via de tabelas e das transações existentes.</p:p>
+                    <img:image path="img/mf.jpg">Modelo Físico da Aplicação</img:image>
+                </subsubsection>
+            </subsection>
+
+            <subsection>
+                <title>Desenvolvimento e Funcionalidades</title>
+                	<p:p>O nome escolhido para a nossa aplicação foi <p:b>Berlioz Manager</p:b>como forma de homenagem a Hector Berlioz, um músico que teve contribuições significativas para a orquestra moderna. Ele criou música para enormes grupos orquestrais, e realizou vários concertos com mais de mil músicos. Também compôs cerca de cinquenta canções</p:p>
+                	<p:p>Decidimos dividir a aplicação em duas distintas páginas: Uma pensada para a visualização do público em geral, onde é possível consultar os próximos eventos da escola (audições/concertos), uma breve descrição do trabalho realizado, como o contacto do grupo que realizou o trabalho.</p:p>
+                	<img:image path="img/homepage.jpg">HomePage</img:image>
+                	<p:p>Na visualização dos eventos (audições/concertos) é possível filtrar os que já aconteceram dos que ainda estão por acontecer, assim como algumas informações básicas das Audições</p:p>
+                	<img:image path="img/homepage2.jpg">Visualização de Audições</img:image>
+
+                	<p:p>Após selecionar uma audição, de forma a obter mais informações como todas as actuações, os alunos que estão envolvidos em todas as peças a ser tocadas</p:p>
+                	<img:image path="img/audicao.jpg">Visualização de Audições</img:image>
+
+                	<p:p>A lista de peças a ser tocadas também pode ser consultada</p:p>
+                	<img:image path="img/actuacao.jpg">Visualização de Actuações</img:image>
+                    <p:p><p:p></p:p></p:p>
+                	<p:p>O outro tipo de página está pensada com a finalidade de gerir toda a informação da escola, ou seja, para ser utilizada por um membro responsável pela escola</p:p>                	
+
+                	<img:image path="img/list.jpg">Painel de listar dados</img:image>
+      
+
+                	<p:p>É possível listar e adicionar Alunos, Professores, Cursos, Obras, Compositores através de um simples formulário e através de um ficheiro XML.</p:p>
+
+                	<img:image path="img/admin2.jpg">Painel de adicionar dados</img:image>
+                    <p:p>É possível editar os dados.</p:p>                	
+                
+                    <img:image path="img/edit.jpg">Painel de editar dados</img:image>
+
+                	<p:p>É tambem possivel adicionar audições através de uma área de texto onde é possível escrever nela o planeamento da audição no formato definido pela gramática</p:p>
+
+                	<img:image path="img/addaudition.jpg">Criação de Audições</img:image>
+                    
+                    <p:p></p:p>                	
+                
+                    <img:image path="img/listaudi.jpg">Painel de listar audições</img:image>
+                
+                    <p:p></p:p>
+                    
+                    <img:image path="img/consult.jpg">Painel de consultar audição</img:image>
+                    
+                    <p:p></p:p>
+                
+                    <img:image path="img/pdf.jpg">Exportar para PDF</img:image>
+                
+                    <p:p></p:p>
+                
+                    <img:image path="img/html.jpg">Exportar para HTML</img:image>
+                
+                    <p:p></p:p>
+                
+                    <img:image path="img/k.png">Schema do XML de uma audição</img:image>
+
+
+                </subsection>
+
+
+        </section>
+        <section>
+            <title>Notas Finais</title>
+            <subsection>
+                <title>Conclusão</title>
+                <p:p>Em conclusão, vemos este projeto como mais um forma de pôr em prática os conhecimentos adquiridos e as ferramentas disponibilizadas no perfil de Processamento de Linguagens e Conhecimento durante o 1º Semestre. Como o enunciado deste trabalho prático implica um domínio de todos os conceitos abordados nas aulas, este ajudou a consolidar os conhecimentos e a combater algumas dificuldades que tínhamos anteriormente.</p:p>
+                <p:p>Quanto à fase de desenvolvimento do projecto, podemos considerar que a fase de interpretação do enunciado tomou algum tempo ao grupo de forma a chegar a um acordo quando à implementação da base de dados, nesta fase da criação da base de dados deparamo-nos com algumas dificildades iniciais, mas apartir do momento em que se conseguiu povoar a base de dados, tornou mais facéis as tarefas seguintes do grupo. Na parte final do desenvolvimento, com uma menor disponibilidade de tempo dos elementos do grupo, alguns dos objectivos iniciais não foram cumpridos. Pelo que na segunda oportunidade de apresentação os requesitos estão quase na totalidade implementados</p:p>
+                <p:p>Depois de uma avaliação ponderada, o grupo considerou os requisitos pedidos foram cumpridos, talvez numa abordagem inicial com o auxilio de uma framework ajudava o grupo em termos de tempo e preocupação com os métodos CRUD.  Mas fica a certeza de seria um bom projecto para continuar a trabalhar de forma a terminar-lo e o disponibilizar ao sujeito cliente, neste caso uma escola de música.</p:p>
+            </subsection>
+            
+        </section>
+    </body>
+    <back-matter>
+        <appendix-list>
+            <appendix>
+                <title></title>
+                <p:p></p:p>
+            </appendix>
+        </appendix-list>
+    </back-matter>
+</report>

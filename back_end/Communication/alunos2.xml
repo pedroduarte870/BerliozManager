@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno id="A7550123">
+        <nome>ADELINO GONCALVES</nome>
+        <dataNasc>2002-1-3</dataNasc>
+        <curso>CB2</curso>
+        <anoCurso>6</anoCurso>
+        <instrumento>Contrabaixo</instrumento>
+    </aluno>
+    <aluno id="A1337213">
+        <nome>AMARAL</nome>
+        <dataNasc>2000-4-5</dataNasc>
+        <curso>CS6</curso>
+        <anoCurso>4</anoCurso>
+        <instrumento>Flauta</instrumento>
+    </aluno>
+    <aluno id="A3621312312">
+        <nome>Miguel</nome>
+        <dataNasc>2004-10-24</dataNasc>
+        <curso>CB8</curso>
+        <anoCurso>3</anoCurso>
+        <instrumento>Guitarra</instrumento>
+    </aluno>
+</alunos>

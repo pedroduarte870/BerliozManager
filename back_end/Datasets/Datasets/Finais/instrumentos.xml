@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrumentos>
+  <instrumento id="I1">Clarinete</instrumento>
+  <instrumento id="I2">Contrabaixo</instrumento>
+  <instrumento id="I3">Corne Inglês</instrumento>
+  <instrumento id="I4">Eufónio</instrumento>
+  <instrumento id="I5">Fagote</instrumento>
+  <instrumento id="I6">Flauta</instrumento>
+  <instrumento id="I7">Fliscorne</instrumento>
+  <instrumento id="I8">Guitarra</instrumento>
+  <instrumento id="I9">Harpa</instrumento>
+  <instrumento id="I10">Oboé</instrumento>
+  <instrumento id="I11">Orgão</instrumento>
+  <instrumento id="I12">Percussão</instrumento>
+  <instrumento id="I13">Piano</instrumento>
+  <instrumento id="I14">Saxofone</instrumento>
+  <instrumento id="I15">Trombone</instrumento>
+  <instrumento id="I16">Trompa</instrumento>
+  <instrumento id="I17">Trompete</instrumento>
+  <instrumento id="I18">Tuba</instrumento>
+  <instrumento id="I19">Violoncelo</instrumento>
+  <instrumento id="I20">Violino</instrumento>
+  <instrumento id="I21">Viola de Arco</instrumento>
+  <instrumento id="I22">Bandolim</instrumento>
+</instrumentos>

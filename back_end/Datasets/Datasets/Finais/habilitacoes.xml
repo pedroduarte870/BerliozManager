@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<habilitacoes>
+  <habilitacao id="HL1">Licenciatura em Clarinete</habilitacao>
+  <habilitacao id="HL2">Licenciatura em Contrabaixo</habilitacao>
+  <habilitacao id="HL3">Licenciatura em Corne Inglês</habilitacao>
+  <habilitacao id="HL4">Licenciatura em Eufónio</habilitacao>
+  <habilitacao id="HL5">Licenciatura em Fagote</habilitacao>
+  <habilitacao id="HL6">Licenciatura em Flauta</habilitacao>
+  <habilitacao id="HL7">Licenciatura em Fliscorne</habilitacao>
+  <habilitacao id="HL8">Licenciatura em Guitarra</habilitacao>
+  <habilitacao id="HL9">Licenciatura em Harpa</habilitacao>
+  <habilitacao id="HL10">Licenciatura em Oboé</habilitacao>
+  <habilitacao id="HL11">Licenciatura em Orgão</habilitacao>
+  <habilitacao id="HL12">Licenciatura em Percussão</habilitacao>
+  <habilitacao id="HL13">Licenciatura em Piano</habilitacao>
+  <habilitacao id="HL14">Licenciatura em Saxofone</habilitacao>
+  <habilitacao id="HL15">Licenciatura em Trombone</habilitacao>
+  <habilitacao id="HL16">Licenciatura em Trompa</habilitacao>
+  <habilitacao id="HL17">Licenciatura em Trompete</habilitacao>
+  <habilitacao id="HL18">Licenciatura em Tuba</habilitacao>
+  <habilitacao id="HL19">Licenciatura em Violoncelo</habilitacao>
+  <habilitacao id="HL20">Licenciatura em Violino</habilitacao>
+  <habilitacao id="HL21">Licenciatura em Viola de Arco</habilitacao>
+  <habilitacao id="HL22">Licenciatura em Bandolim</habilitacao>
+
+  <habilitacao id="HM1">Mestrado em Clarinete</habilitacao>
+  <habilitacao id="HM2">Mestrado em Contrabaixo</habilitacao>
+  <habilitacao id="HM3">Mestrado em Corne Inglês</habilitacao>
+  <habilitacao id="HM4">Mestrado em Eufónio</habilitacao>
+  <habilitacao id="HM5">Mestrado em Fagote</habilitacao>
+  <habilitacao id="HM6">Mestrado em Flauta</habilitacao>
+  <habilitacao id="HM7">Mestrado em Fliscorne</habilitacao>
+  <habilitacao id="HM8">Mestrado em Guitarra</habilitacao>
+  <habilitacao id="HM9">Mestrado em Harpa</habilitacao>
+  <habilitacao id="HM10">Mestrado em Oboé</habilitacao>
+  <habilitacao id="HM11">Mestrado em Orgão</habilitacao>
+  <habilitacao id="HM12">Mestrado em Percussão</habilitacao>
+  <habilitacao id="HM13">Mestrado em Piano</habilitacao>
+  <habilitacao id="HM14">Mestrado em Saxofone</habilitacao>
+  <habilitacao id="HM15">Mestrado em Trombone</habilitacao>
+  <habilitacao id="HM16">Mestrado em Trompa</habilitacao>
+  <habilitacao id="HM17">Mestrado em Trompete</habilitacao>
+  <habilitacao id="HM18">Mestrado em Tuba</habilitacao>
+  <habilitacao id="HM19">Mestrado em Violoncelo</habilitacao>
+  <habilitacao id="HM20">Mestrado em Violino</habilitacao>
+  <habilitacao id="HM21">Mestrado em Viola de Arco</habilitacao>
+  <habilitacao id="HM22">Mestrado em Bandolim</habilitacao>
+</habilitacoes>

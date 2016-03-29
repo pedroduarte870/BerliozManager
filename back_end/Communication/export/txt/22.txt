@@ -1,0 +1,29 @@
+BEGIN GAMU
+    BEGIN AUDITION
+    22
+        METADATA
+            TITLE "Audition start of the year2" 
+            SUBTITLE "Initiation" 
+            SUBJECT "Fresh start" 
+            ORGANIZER "Berlioz" 
+            PLACE "Music school" 
+            DATE 12/02/2016
+            TIME 13h 45
+            DURATION 4h 50m
+        .
+        PERFORMANCES
+            PERFORMANCE
+            LEADERS P1 , P4
+            PERFORMERS A36422
+            PLAYS
+                PLAY O1 ;
+          .
+            PERFORMANCE
+            LEADERS P3 , P5
+            PERFORMERS A32597
+            PLAYS
+                PLAY O2 ;
+                PLAY O5 ;
+          .
+    END AUDITION
+END GAMU

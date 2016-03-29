@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Berlioz Manager</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="../bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+    <!-- DataTables CSS -->
+    <link href="../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+
+    <!-- DataTables Responsive CSS -->
+    <link href="../bower_components/datatables/media/js/jquery.dataTables.min.js" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="../bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">BerliozManager</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Berlioz Manager</a>
+            </div>          
+
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+                                <input type="text" class="form-control" placeholder="Search...">
+                                <span class="input-group-btn">
+                                <button class="btn btn-default" type="button">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                            </div>
+                            <!-- /input-group -->
+                        </li>
+                        
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Students<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="liststudent.html">List of students</a>
+                                </li>
+                                <li>
+                                    <a href="addstudent.html">Add studend</a>
+                                </li>
+                                <li>
+                                    <a href="listgroup.html">List of groups</a>
+                                </li>
+                                <li>
+                                    <a href="addgroup.html">Add group</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Teachers<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listteacher.html">List of teachers</a>
+                                </li>
+                                <li>
+                                    <a href="addteacher.html">Add teacher</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Pieces & Composers<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listpiece.html">List of pieces</a>
+                                </li>
+                                <li>
+                                    <a href="listcomposer.html">List of composers</a>
+                                </li>
+                                <li>
+                                    <a href="addpiece.html">Add pieces</a>
+                                </li>
+                                <li>
+                                    <a href="addcomposer.html">Add composer</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Courses<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listcourse.html">List of courses</a>
+                                </li>
+                                <li>
+                                    <a href="addcourse.html">Add course</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Auditions<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="listaudition.html">List of auditions</a>
+                                </li>
+                                <li>
+                                    <a href="addaudition.html">Add audition</a>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+
+        <div id="page-wrapper" >
+
+
+            <div>
+                <div class="tab-pane fade active in" id = "edittablehide" style="display:none">
+                    <div class="col-lg-12">
+                    <h1 class="page-header">Edit Student</h1>
+                   
+                </div>
+                                    <div class="col-lg-8">
+                                    
+                                        <fieldset id="">
+                                            <div id="">
+                                                <div class="form-group" id="idDiv" name="idDiv">
+                                                    <label>Student ID</label>
+                                                    <input class="form-control"  name="idS" id="idS" disabled>                                                   
+                                                </div>
+                                                <div class="form-group" name="nameDiv" id="nameDiv">
+                                                    <label>Name</label>
+                                                    <input class="form-control" name="name" id="name">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>BirthDay</label>
+                                                    <input class="form-control" placeholder="YYYY-MM-DD" name="birthday" id="birthday">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Course year</label>
+                                                    <input class="form-control" name="year" id="year">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Course</label>
+                                                    <select class="form-control" id="courseL" name="courseL">
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <button type="button" onclick="insertStudent()" class="btn btn-default"> UPDATE</button>
+                                        <button type="button" onclick="goback()" class="btn btn-info">Go Back</button>
+                                    
+                                </div>
+                                </div>
+            </div>
+            <div class="row" id ="tablemanager">
+                <div class="col-lg-12">
+                    <h1 class="page-header">List of Students</h1>
+                   
+                </div>
+                <div class="row">
+                <div class="col-lg-12" >
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="dataTable_wrapper">
+                                <table class="table table-striped table-bordered table-hover" id="StudentTable">
+                                    
+                                </table>
+                            </div>                            
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            </div>
+        </div>
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="../bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+    <!-- DataTables JavaScript -->
+    <script src="../bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
+    <script src="../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../dist/js/sb-admin-2.js"></script>
+
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <script>
+    $(document).ready(function() {
+        $.ajax({
+          url: '../../back_end/Communication/listCourses.php',
+          type: 'post',
+          data: { "request": "deisgnation" },
+          success: function(response) {
+             //window.alert(response);
+              designations = JSON.parse(response);
+              //window.alert(designations[0]);
+              // Adicionar nomes de cursos a drop down
+              select = document.getElementById('courseL');
+              for(i=0; i < designations.length; i++) {
+                var opt = document.createElement('option');
+                opt.value = designations[i];
+                opt.innerHTML = designations[i];
+                select.appendChild(opt);
+               }
+          },
+          error: function(err) {
+            window.alert("Error while listing courses");
+          }
+      });
+    $.ajax({
+          url: '../../back_end/Communication/students.php',
+          type: 'post',
+          data: { "request": "list" },
+          success: function(response) {
+            //window.alert(response);
+              students = JSON.parse(response);
+            // window.alert(students);
+               body= document.getElementById("tbody");
+               $('#StudentTable').DataTable({
+                responsive: true,
+                data: students,
+                columns: [
+            { title: "ID" },
+            { title: "NAME" },
+            { title: "BIRTH" },
+            { title: "YEAR" },
+            { title: "COURSE" },
+            { title: "INSTRUMENT" },
+            { title: "Edit"},
+            { title: "Remove"}
+        ]
+                 });
+              
+          },
+          error: function(err) {
+            window.alert("Error while listing courses");
+          }
+
+
+      });
+
+
+        
+    });
+        function goback() {
+
+           location.reload();
+        }
+
+        function editstudent(ID) {
+         
+         document.getElementById("tablemanager").style.display = "none";
+         document.getElementById("edittablehide").style.display = "block";
+         
+         var id = $("#idS");
+         id.val("A"+ID);
+            $.ajax({
+          url: '../../back_end/Communication/students.php',
+          type: 'post',
+          data: { "request": "studentc" , "id": "A"+ID  },
+          success: function(response) {
+            //window.alert(response);
+              student = JSON.parse(response);
+            // window.alert(students);
+        
+            var name = $("#name")
+            name.val(student[1]);
+
+            var birthday = $("#birthday")
+            birthday.val(student[2]);
+
+            var year = $("#year")
+            year.val(student[3]);
+
+            var courseL = $("#courseL")
+            courseL.val(student[4]);
+
+          },
+          error: function(err) {
+            window.alert("Error while listing courses");
+          }
+
+
+      });
+
+
+        }
+
+        function insertStudent() {
+        var id = $('#idS').val();
+        var name = $('#name').val();
+        var birth = $('#birthday').val();
+        var year = $('#year').val();
+        var course = $('#courseL').val();
+        var Noerror=true;
+    //Validacoes
+    if(!id.startsWith("A")){ 
+      document.getElementById("idS").style.borderColor = "red";
+      Noerror=false;
+        }
+       if(name=="") {
+      document.getElementById("name").style.borderColor = "red";
+      Noerror=false;
+    } 
+      if(birth=="") {
+      document.getElementById("birthday").style.borderColor = "red";
+      Noerror=false;
+    } 
+    
+     if(year=="") {
+      document.getElementById("year").style.borderColor = "red";
+      Noerror=false;
+    } 
+      if(Noerror) { 
+      $.ajax({
+        url: '../../back_end/Communication/students.php',
+        type: 'post',
+        data: {"request":"update" , "name": name, "birth": birth, "id": id, "course": course, "year":year },
+        success: function(response) {
+                    window.alert(response);
+              },
+        error: function(err) {
+                  window.alert("Error comuncating with students controller");
+               }
+      });
+    }
+  }
+
+        function removestudent(ID) {
+         
+
+
+    }
+    
+
+
+    </script>
+
+
+</body>
+
+</html>

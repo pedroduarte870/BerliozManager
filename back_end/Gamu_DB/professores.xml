@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<professores>
+    <professor id="P1">
+        <nome>ALVARO JOSE DE CASTRO MOREIRA DA SILVA</nome>
+        <dataNasc>1990-2-19</dataNasc>
+        <habilitacoes>Mestre em Piano</habilitacoes>
+        <curso>Curso Supletivo de Piano</curso>
+    </professor>
+    <professor id="P2">
+        <nome>ANDRE FILIPE AZEVEDO SOUSA</nome>
+        <dataNasc>1982-7-1</dataNasc>
+        <habilitacoes>Licenciado em Corne Inglês</habilitacoes>
+        <curso>Curso Básico de Corne Inglês</curso>
+    </professor>
+    <professor id="P3">
+        <nome>BRUNO MIGUEL PEREIRA PINTO</nome>
+        <dataNasc>1949-7-17</dataNasc>
+        <habilitacoes>Licenciado em Tuba</habilitacoes>
+        <curso>Curso Básico de Tuba</curso>
+    </professor>
+    <professor id="P4">
+        <nome>FILIPE ALEXANDRE DA SILVA MARTINS</nome>
+        <dataNasc>1974-10-21</dataNasc>
+        <habilitacoes>Licenciado em Bandolim</habilitacoes>
+        <curso>Curso Básico de Bandolim</curso>
+    </professor>
+    <professor id="P5">
+        <nome>HELDER RICARDO DIAS RIBEIRO</nome>
+        <dataNasc>1977-5-17</dataNasc>
+        <habilitacoes>Mestre em Fagote</habilitacoes>
+        <curso>Curso Supletivo de Fagote</curso>
+    </professor>
+    <professor id="P6">
+        <nome>HERNANI RODRIGUES DA SILVA</nome>
+        <dataNasc>1965-10-12</dataNasc>
+        <habilitacoes>Licenciado em Trompete</habilitacoes>
+        <curso>Curso Básico de Trompete</curso>
+    </professor>
+    <professor id="P7">
+        <nome>JORGE MANUEL BARROS NUNES</nome>
+        <dataNasc>1972-10-19</dataNasc>
+        <habilitacoes>Licenciado em Saxofone</habilitacoes>
+        <curso>Curso Básico de Saxofone</curso>
+    </professor>
+    <professor id="P8">
+        <nome>JOSE MIGUEL ARAUJO FERREIRA</nome>
+        <dataNasc>1966-9-18</dataNasc>
+        <habilitacoes>Mestre em Tuba</habilitacoes>
+        <curso>Curso Supletivo de Tuba</curso>
+    </professor>
+    <professor id="P9">
+        <nome>PEDRO GABRIEL DIAS FERREIRA</nome>
+        <dataNasc>1952-5-21</dataNasc>
+        <habilitacoes>Mestre em Clarinete</habilitacoes>
+        <curso>Curso Supletivo de Clarinete</curso>
+    </professor>
+    <professor id="P10">
+        <nome>PEDRO MANUEL VIEIRA SANTOS PINTO</nome>
+        <dataNasc>1976-6-15</dataNasc>
+        <habilitacoes>Licenciado em Violoncelo</habilitacoes>
+        <curso>Curso Básico de Violoncelo</curso>
+    </professor>
+    <professor id="P11">
+        <nome>RUI MANUEL AFONSO RODRIGUES SILVA GUERRA</nome>
+        <dataNasc>1949-3-1</dataNasc>
+        <habilitacoes>Mestre em Saxofone</habilitacoes>
+        <curso>Curso Supletivo de Saxofone</curso>
+    </professor>
+    <professor id="P12">
+        <nome>SERGIO MIGUEL VALENTE DE ALMEIDA</nome>
+        <dataNasc>1949-9-17</dataNasc>
+        <habilitacoes>Mestre em Orgão</habilitacoes>
+        <curso>Curso Básico de Orgão</curso>
+    </professor>
+    <professor id="P13">
+        <nome>TIAGO MACHADO SILVA</nome>
+        <dataNasc>1983-1-20</dataNasc>
+        <habilitacoes>Licenciado em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P14">
+        <nome>VASCO DUARTE ALMEIDA DIAS DE CASTRO</nome>
+        <dataNasc>1960-4-13</dataNasc>
+        <habilitacoes>Licenciado em Trombone</habilitacoes>
+        <curso>Curso Básico de Trombone</curso>
+    </professor>
+    <professor id="P15">
+        <nome>ANTONIO JOSE OLIVEIRA FARIA</nome>
+        <dataNasc>1953-5-19</dataNasc>
+        <habilitacoes>Mestre em Contrabaixo</habilitacoes>
+        <curso>Curso Básico de Contrabaixo</curso>
+    </professor>
+    <professor id="P16">
+        <nome>CARLA MARIA MENDES DE CASTRO</nome>
+        <dataNasc>1956-6-27</dataNasc>
+        <habilitacoes>Licenciado em Saxofone</habilitacoes>
+        <curso>Curso Básico de Saxofone</curso>
+    </professor>
+    <professor id="P17">
+        <nome>MARLENE AZEVEDO DA SILVA</nome>
+        <dataNasc>1992-1-6</dataNasc>
+        <habilitacoes>Mestre em Corne Inglês</habilitacoes>
+        <curso>Curso Supletivo de Corne Inglês</curso>
+    </professor>
+    <professor id="P18">
+        <nome>PAULO ALEXANDRE MARQUES DE OLIVEIRA SERAFIM</nome>
+        <dataNasc>1963-10-11</dataNasc>
+        <habilitacoes>Mestre em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P19">
+        <nome>DAVID FILIPE OLIVEIRA COSTA</nome>
+        <dataNasc>1959-1-6</dataNasc>
+        <habilitacoes>Mestre em Fliscorne</habilitacoes>
+        <curso>Curso Supletivo de Fliscorne</curso>
+    </professor>
+    <professor id="P20">
+        <nome>RICARDO MIGUEL CARVALHO FERREIRA</nome>
+        <dataNasc>1950-12-23</dataNasc>
+        <habilitacoes>Mestre em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P21">
+        <nome>JOSE ALVES DE CASTRO</nome>
+        <dataNasc>1974-9-21</dataNasc>
+        <habilitacoes>Licenciado em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P22">
+        <nome>MARIO BENTO BRITO NOBREGA RAMOS DE AZEVEDO</nome>
+        <dataNasc>1947-8-19</dataNasc>
+        <habilitacoes>Licenciado em Violoncelo</habilitacoes>
+        <curso>Curso Básico de Violoncelo</curso>
+    </professor>
+    <professor id="P23">
+        <nome>PAULO CESAR RODRIGUES GOMES</nome>
+        <dataNasc>1967-3-21</dataNasc>
+        <habilitacoes>Mestre em Viola de Arco</habilitacoes>
+        <curso>Curso Básico de Viola de Arco</curso>
+    </professor>
+    <professor id="P24">
+        <nome>Susana Pereira</nome>
+        <dataNasc>1967-6-17</dataNasc>
+        <habilitacoes>Mestre em Percussão</habilitacoes>
+        <curso>Curso Supletivo de Percussão</curso>
+    </professor>
+    <professor id="P25">
+        <nome>Gabriel Reis</nome>
+        <dataNasc>1964-10-12</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P26">
+        <nome>Arsénio</nome>
+        <dataNasc>1948-4-20</dataNasc>
+        <habilitacoes>Mestre em Clarinete</habilitacoes>
+        <curso>Curso Básico de Clarinete</curso>
+    </professor>
+    <professor id="P27">
+        <nome>Frederico Pinto</nome>
+        <dataNasc>1979-9-14</dataNasc>
+        <habilitacoes>Licenciado em Harpa</habilitacoes>
+        <curso>Curso Básico de Harpa</curso>
+    </professor>
+    <professor id="P28">
+        <nome>Gonçalo Hermenegildo</nome>
+        <dataNasc>1971-3-24</dataNasc>
+        <habilitacoes>Mestre em Viola de Arco</habilitacoes>
+        <curso>Curso Supletivo de Viola de Arco</curso>
+    </professor>
+    <professor id="P29">
+        <nome>Luis</nome>
+        <dataNasc>1977-1-5</dataNasc>
+        <habilitacoes>Licenciado em Trombone</habilitacoes>
+        <curso>Curso Básico de Trombone</curso>
+    </professor>
+    <professor id="P30">
+        <nome>Miguel Pinto</nome>
+        <dataNasc>1989-9-13</dataNasc>
+        <habilitacoes>Licenciado em Orgão</habilitacoes>
+        <curso>Curso Básico de Orgão</curso>
+    </professor>
+    <professor id="P31">
+        <nome>Pedro Lopes</nome>
+        <dataNasc>1985-11-6</dataNasc>
+        <habilitacoes>Licenciado em Viola de Arco</habilitacoes>
+        <curso>Curso Básico de Viola de Arco</curso>
+    </professor>
+    <professor id="P32">
+        <nome>António José Coutinho Barbosa</nome>
+        <dataNasc>1968-9-18</dataNasc>
+        <habilitacoes>Mestre em Corne Inglês</habilitacoes>
+        <curso>Curso Básico de Corne Inglês</curso>
+    </professor>
+    <professor id="P33">
+        <nome>Ricardo Paz</nome>
+        <dataNasc>1955-8-19</dataNasc>
+        <habilitacoes>Mestre em Eufónio</habilitacoes>
+        <curso>Curso Supletivo de Eufónio</curso>
+    </professor>
+    <professor id="P34">
+        <nome>Sandrina Maciel</nome>
+        <dataNasc>1965-11-21</dataNasc>
+        <habilitacoes>Licenciado em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P35">
+        <nome>Bruno Martins</nome>
+        <dataNasc>1982-3-22</dataNasc>
+        <habilitacoes>Licenciado em Eufónio</habilitacoes>
+        <curso>Curso Básico de Eufónio</curso>
+    </professor>
+    <professor id="P36">
+        <nome>Filipe Froufe</nome>
+        <dataNasc>1966-11-15</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P37">
+        <nome>João Brites</nome>
+        <dataNasc>1950-9-9</dataNasc>
+        <habilitacoes>Mestre em Oboé</habilitacoes>
+        <curso>Curso Supletivo de Oboé</curso>
+    </professor>
+    <professor id="P38">
+        <nome>Leandro Morgado</nome>
+        <dataNasc>1950-7-8</dataNasc>
+        <habilitacoes>Licenciado em Fagote</habilitacoes>
+        <curso>Curso Básico de Fagote</curso>
+    </professor>
+    <professor id="P39">
+        <nome>Manuel Sousa</nome>
+        <dataNasc>1988-12-10</dataNasc>
+        <habilitacoes>Mestre em Guitarra</habilitacoes>
+        <curso>Curso Básico de Guitarra</curso>
+    </professor>
+    <professor id="P40">
+        <nome>Pedro Resende</nome>
+        <dataNasc>1967-6-24</dataNasc>
+        <habilitacoes>Licenciado em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P41">
+        <nome>Ricardo</nome>
+        <dataNasc>1973-9-25</dataNasc>
+        <habilitacoes>Licenciado em Percussão</habilitacoes>
+        <curso>Curso Básico de Percussão</curso>
+    </professor>
+    <professor id="P42">
+        <nome>Fernanda Barroso</nome>
+        <dataNasc>1963-12-7</dataNasc>
+        <habilitacoes>Mestre em Contrabaixo</habilitacoes>
+        <curso>Curso Supletivo de Contrabaixo</curso>
+    </professor>
+    <professor id="P43">
+        <nome>Marta Silva</nome>
+        <dataNasc>1949-8-11</dataNasc>
+        <habilitacoes>Licenciado em Tuba</habilitacoes>
+        <curso>Curso Básico de Tuba</curso>
+    </professor>
+    <professor id="P44">
+        <nome>Paulo Alexandre Afonso Dias</nome>
+        <dataNasc>1991-4-4</dataNasc>
+        <habilitacoes>Licenciado em Eufónio</habilitacoes>
+        <curso>Curso Básico de Eufónio</curso>
+    </professor>
+    <professor id="P45">
+        <nome>Susana Pacheco</nome>
+        <dataNasc>1947-7-26</dataNasc>
+        <habilitacoes>Licenciado em Tuba</habilitacoes>
+        <curso>Curso Básico de Tuba</curso>
+    </professor>
+    <professor id="P46">
+        <nome>Almeno</nome>
+        <dataNasc>1964-11-18</dataNasc>
+        <habilitacoes>Mestre em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P47">
+        <nome>Carlos Durana</nome>
+        <dataNasc>1961-6-8</dataNasc>
+        <habilitacoes>Mestre em Violoncelo</habilitacoes>
+        <curso>Curso Básico de Violoncelo</curso>
+    </professor>
+    <professor id="P48">
+        <nome>Hernani Silva</nome>
+        <dataNasc>1949-8-8</dataNasc>
+        <habilitacoes>Licenciado em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P49">
+        <nome>Sofia PAiva</nome>
+        <dataNasc>1990-6-21</dataNasc>
+        <habilitacoes>Mestre em Oboé</habilitacoes>
+        <curso>Curso Supletivo de Oboé</curso>
+    </professor>
+    <professor id="P50">
+        <nome>Bruno Miguel Pereira Pinto</nome>
+        <dataNasc>1985-7-5</dataNasc>
+        <habilitacoes>Mestre em Contrabaixo</habilitacoes>
+        <curso>Curso Básico de Contrabaixo</curso>
+    </professor>
+    <professor id="P51">
+        <nome>Cristiano Cunha</nome>
+        <dataNasc>1959-11-14</dataNasc>
+        <habilitacoes>Licenciado em Orgão</habilitacoes>
+        <curso>Curso Básico de Orgão</curso>
+    </professor>
+    <professor id="P52">
+        <nome>Daniel Pires</nome>
+        <dataNasc>1951-9-20</dataNasc>
+        <habilitacoes>Licenciado em Fagote</habilitacoes>
+        <curso>Curso Básico de Fagote</curso>
+    </professor>
+    <professor id="P53">
+        <nome>Ernesto Miranda Pedrosa da Silva</nome>
+        <dataNasc>1991-5-1</dataNasc>
+        <habilitacoes>Licenciado em Oboé</habilitacoes>
+        <curso>Curso Básico de Oboé</curso>
+    </professor>
+    <professor id="P54">
+        <nome>Manuel Joao Salgado da Costa Amaro</nome>
+        <dataNasc>1975-6-15</dataNasc>
+        <habilitacoes>Licenciado em Oboé</habilitacoes>
+        <curso>Curso Básico de Oboé</curso>
+    </professor>
+    <professor id="P55">
+        <nome>Pedro Nuno Tavares da Silva </nome>
+        <dataNasc>1990-1-5</dataNasc>
+        <habilitacoes>Licenciado em Clarinete</habilitacoes>
+        <curso>Curso Básico de Clarinete</curso>
+    </professor>
+    <professor id="P56">
+        <nome>Rui Pedro da Costa Barbosa</nome>
+        <dataNasc>1992-12-6</dataNasc>
+        <habilitacoes>Mestre em Clarinete</habilitacoes>
+        <curso>Curso Básico de Clarinete</curso>
+    </professor>
+    <professor id="P57">
+        <nome>Carlos Guilherme Pelaio Macedo Costa </nome>
+        <dataNasc>1953-11-22</dataNasc>
+        <habilitacoes>Licenciado em Harpa</habilitacoes>
+        <curso>Curso Básico de Harpa</curso>
+    </professor>
+    <professor id="P58">
+        <nome>Jorge Filipe Marcos Mota </nome>
+        <dataNasc>1988-1-3</dataNasc>
+        <habilitacoes>Licenciado em Flauta</habilitacoes>
+        <curso>Curso Básico de Flauta</curso>
+    </professor>
+    <professor id="P59">
+        <nome>Nuno Miguel Alves Peixoto</nome>
+        <dataNasc>1947-9-9</dataNasc>
+        <habilitacoes>Licenciado em Eufónio</habilitacoes>
+        <curso>Curso Básico de Eufónio</curso>
+    </professor>
+    <professor id="P60">
+        <nome>Vânia Sifia Carvalho</nome>
+        <dataNasc>1989-9-20</dataNasc>
+        <habilitacoes>Licenciado em Eufónio</habilitacoes>
+        <curso>Curso Básico de Eufónio</curso>
+    </professor>
+    <professor id="P61">
+        <nome>Maria Campos</nome>
+        <dataNasc>1975-4-9</dataNasc>
+        <habilitacoes>Licenciado em Guitarra</habilitacoes>
+        <curso>Curso Básico de Guitarra</curso>
+    </professor>
+    <professor id="P62">
+        <nome>Nuno Rodrigues</nome>
+        <dataNasc>1959-12-16</dataNasc>
+        <habilitacoes>Licenciado em Bandolim</habilitacoes>
+        <curso>Curso Básico de Bandolim</curso>
+    </professor>
+    <professor id="P63">
+        <nome>Adélio Marco da Costa Fernandes</nome>
+        <dataNasc>1985-5-25</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P64">
+        <nome>Alexandre Gonçalves</nome>
+        <dataNasc>1969-10-11</dataNasc>
+        <habilitacoes>Mestre em Contrabaixo</habilitacoes>
+        <curso>Curso Básico de Contrabaixo</curso>
+    </professor>
+    <professor id="P65">
+        <nome>Amândio Telmo Oliveira Teixeira</nome>
+        <dataNasc>1975-5-19</dataNasc>
+        <habilitacoes>Mestre em Fliscorne</habilitacoes>
+        <curso>Curso Básico de Fliscorne</curso>
+    </professor>
+    <professor id="P66">
+        <nome>Carla Sofia de Almeida Coutinho </nome>
+        <dataNasc>1968-7-16</dataNasc>
+        <habilitacoes>Licenciado em Violino</habilitacoes>
+        <curso>Curso Básico de Violino</curso>
+    </professor>
+    <professor id="P67">
+        <nome>Edison Oliveira</nome>
+        <dataNasc>1985-2-7</dataNasc>
+        <habilitacoes>Licenciado em Corne Inglês</habilitacoes>
+        <curso>Curso Básico de Corne Inglês</curso>
+    </professor>
+    <professor id="P68">
+        <nome>Fernando Sousa</nome>
+        <dataNasc>1982-5-3</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Supletivo de Trompa</curso>
+    </professor>
+    <professor id="P69">
+        <nome>Filipe Manuel Alves Romano</nome>
+        <dataNasc>1956-6-7</dataNasc>
+        <habilitacoes>Mestre em Flauta</habilitacoes>
+        <curso>Curso Supletivo de Flauta</curso>
+    </professor>
+    <professor id="P70">
+        <nome>Francisco Alexandre Aires Gonçalves</nome>
+        <dataNasc>1975-4-1</dataNasc>
+        <habilitacoes>Licenciado em Trombone</habilitacoes>
+        <curso>Curso Básico de Trombone</curso>
+    </professor>
+    <professor id="P71">
+        <nome>Mário André de Castro Vila Cova</nome>
+        <dataNasc>1978-1-27</dataNasc>
+        <habilitacoes>Licenciado em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P72">
+        <nome>Nuno Santos</nome>
+        <dataNasc>1968-8-20</dataNasc>
+        <habilitacoes>Licenciado em Percussão</habilitacoes>
+        <curso>Curso Básico de Percussão</curso>
+    </professor>
+    <professor id="P73">
+        <nome>Nuno Miguel dos Santos Nunes Roldão</nome>
+        <dataNasc>1986-8-19</dataNasc>
+        <habilitacoes>Mestre em Harpa</habilitacoes>
+        <curso>Curso Básico de Harpa</curso>
+    </professor>
+    <professor id="P74">
+        <nome>Orlando Jorge Carvalho Ribeiro</nome>
+        <dataNasc>1947-1-21</dataNasc>
+        <habilitacoes>Licenciado em Flauta</habilitacoes>
+        <curso>Curso Básico de Flauta</curso>
+    </professor>
+    <professor id="P75">
+        <nome>Pedro Filipe Meira Morais</nome>
+        <dataNasc>1953-4-28</dataNasc>
+        <habilitacoes>Licenciado em Violino</habilitacoes>
+        <curso>Curso Básico de Violino</curso>
+    </professor>
+    <professor id="P76">
+        <nome>Renato Neves</nome>
+        <dataNasc>1975-9-26</dataNasc>
+        <habilitacoes>Mestre em Harpa</habilitacoes>
+        <curso>Curso Supletivo de Harpa</curso>
+    </professor>
+    <professor id="P77">
+        <nome>Ricardo</nome>
+        <dataNasc>1991-5-20</dataNasc>
+        <habilitacoes>Mestre em Violoncelo</habilitacoes>
+        <curso>Curso Básico de Violoncelo</curso>
+    </professor>
+    <professor id="P78">
+        <nome>Ricardo Manuel da Silva Abreu</nome>
+        <dataNasc>1957-3-25</dataNasc>
+        <habilitacoes>Licenciado em Tuba</habilitacoes>
+        <curso>Curso Básico de Tuba</curso>
+    </professor>
+    <professor id="P79">
+        <nome>Rui Miguel Silva</nome>
+        <dataNasc>1970-1-5</dataNasc>
+        <habilitacoes>Mestre em Corne Inglês</habilitacoes>
+        <curso>Curso Básico de Corne Inglês</curso>
+    </professor>
+    <professor id="P80">
+        <nome>Sandro Miguel Vales de Freitas</nome>
+        <dataNasc>1957-2-12</dataNasc>
+        <habilitacoes>Licenciado em Harpa</habilitacoes>
+        <curso>Curso Básico de Harpa</curso>
+    </professor>
+    <professor id="P81">
+        <nome>Ana Luísa Pinto Teixeira</nome>
+        <dataNasc>1964-11-8</dataNasc>
+        <habilitacoes>Licenciado em Piano</habilitacoes>
+        <curso>Curso Básico de Piano</curso>
+    </professor>
+    <professor id="P82">
+        <nome>Cândida</nome>
+        <dataNasc>1952-12-28</dataNasc>
+        <habilitacoes>Mestre em Viola de Arco</habilitacoes>
+        <curso>Curso Básico de Viola de Arco</curso>
+    </professor>
+    <professor id="P83">
+        <nome>Carla Susana Teixeira</nome>
+        <dataNasc>1967-6-4</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P84">
+        <nome>Daniel Edgar Pinto Soares</nome>
+        <dataNasc>1978-10-4</dataNasc>
+        <habilitacoes>Licenciado em Violino</habilitacoes>
+        <curso>Curso Básico de Violino</curso>
+    </professor>
+    <professor id="P85">
+        <nome>Lúcia Sofia Miranda</nome>
+        <dataNasc>1958-10-1</dataNasc>
+        <habilitacoes>Licenciado em Clarinete</habilitacoes>
+        <curso>Curso Básico de Clarinete</curso>
+    </professor>
+    <professor id="P86">
+        <nome>Márcio Ferreira</nome>
+        <dataNasc>1951-11-13</dataNasc>
+        <habilitacoes>Mestre em Fliscorne</habilitacoes>
+        <curso>Curso Básico de Fliscorne</curso>
+    </professor>
+    <professor id="P87">
+        <nome>Maria da Conceição Mota</nome>
+        <dataNasc>1982-4-26</dataNasc>
+        <habilitacoes>Mestre em Flauta</habilitacoes>
+        <curso>Curso Supletivo de Flauta</curso>
+    </professor>
+    <professor id="P88">
+        <nome>Maria João Fernandes Guerreiro da Silva </nome>
+        <dataNasc>1978-3-6</dataNasc>
+        <habilitacoes>Licenciado em Saxofone</habilitacoes>
+        <curso>Curso Básico de Saxofone</curso>
+    </professor>
+    <professor id="P89">
+        <nome>Miguel Carreira</nome>
+        <dataNasc>1960-12-10</dataNasc>
+        <habilitacoes>Mestre em Trompa</habilitacoes>
+        <curso>Curso Básico de Trompa</curso>
+    </professor>
+    <professor id="P90">
+        <nome>Vítor Manuel Catarino</nome>
+        <dataNasc>1982-11-3</dataNasc>
+        <habilitacoes>Licenciado em Trombone</habilitacoes>
+        <curso>Curso Básico de Trombone</curso>
+    </professor>
+    <professor id="P91">
+        <nome>Vitor Gonçalves</nome>
+        <dataNasc>1949-7-19</dataNasc>
+        <habilitacoes>Licenciado em Harpa</habilitacoes>
+        <curso>Curso Básico de Harpa</curso>
+    </professor>
+    <professor id="P92">
+        <nome>Fernando Jorge Ferreira Laúndos da Costa</nome>
+        <dataNasc>1950-10-20</dataNasc>
+        <habilitacoes>Licenciado em Percussão</habilitacoes>
+        <curso>Curso Básico de Percussão</curso>
+    </professor>
+    <professor id="P93">
+        <nome>Marco Paulo Martins Cruz</nome>
+        <dataNasc>1945-4-14</dataNasc>
+        <habilitacoes>Licenciado em Fagote</habilitacoes>
+        <curso>Curso Básico de Fagote</curso>
+    </professor>
+    <professor id="P94">
+        <nome>Miguel Pereira Mateus</nome>
+        <dataNasc>1954-6-12</dataNasc>
+        <habilitacoes>Licenciado em Contrabaixo</habilitacoes>
+        <curso>Curso Básico de Contrabaixo</curso>
+    </professor>
+    <professor id="P95">
+        <nome>Rodney Lopes Gomes</nome>
+        <dataNasc>1980-5-12</dataNasc>
+        <habilitacoes>Licenciado em Clarinete</habilitacoes>
+        <curso>Curso Básico de Clarinete</curso>
+    </professor>
+</professores>

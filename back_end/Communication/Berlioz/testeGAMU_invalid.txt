@@ -1,0 +1,32 @@
+BEGIN GAMU
+	BEGIN AUDITION
+		METADATA
+			TITLE "Audição de início de ano"   
+			SUBTITLE "Audição"
+			SUBJECT "Sopros e cordas"			
+			ORGANIZER  "Mozart" 
+			PLACE  "Universidade do Minho"
+			DATE 12/01/2016
+			TIME 13H 45 
+			DURATION 39m
+		.
+		PERFORMANCES
+			PERFORMANCE "Grupo de sopros"
+			LEADERS P1,P1
+			PERFORMERS A134,A1,A3
+			PLAYS 
+				PLAY O1 ;
+			.
+			PERFORMANCE "Grupo de cordas"
+			LEADERS P3,P5
+			PERFORMERS A5,A2,A6
+			PLAYS 
+				PLAY O2 ;
+				PLAY O2 ;
+			.								
+	END AUDITION
+END GAMU
+
+
+
+		

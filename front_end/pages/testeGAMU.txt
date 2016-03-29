@@ -1,0 +1,32 @@
+BEGIN GAMU
+	BEGIN AUDITION
+		METADATA
+			TITLE "Audição avaliação teste web"   
+			SUBTITLE "Audição"
+			SUBJECT "Sopros"			
+			ORGANIZER  "Mozart Reborn" 
+			PLACE  "Universidade do Minho"
+			DATE 12/03/2016
+			TIME 13H 45 
+			DURATION 2h 20
+		.
+		PERFORMANCES
+			PERFORMANCE 
+			LEADERS P1,P1
+			PERFORMERS A36422 , A33689
+			PLAYS 
+				PLAY O1 ;
+			.
+			PERFORMANCE "Grupo cordas"
+			LEADERS P3,P5
+			PERFORMERS A32597, A1510
+			PLAYS 
+				PLAY O2 ;
+				PLAY O2 ;
+			.								
+	END AUDITION
+END GAMU
+
+
+
+		

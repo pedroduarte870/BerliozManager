@@ -1,0 +1,29 @@
+BEGIN GAMU
+     BEGIN AUDITION
+        METADATA
+        TITLE "asdasd"   
+        SUBTITLE "asdas"
+        SUBJECT ""           
+        ORGANIZER  "" 
+        PLACE  ""
+        DATE 
+        TIME 
+        DURATION 
+        .
+        PERFORMANCES
+            PERFORMANCE ""
+            LEADERS 
+            PERFORMERS 
+            PLAYS 
+                PLAY   ;
+             .
+            PERFORMANCE ""
+            LEADERS 
+            PERFORMERS 
+            PLAYS 
+                PLAY  ;
+                PLAY  ;
+            .                               
+    END AUDITION
+END GAMU
+                                            

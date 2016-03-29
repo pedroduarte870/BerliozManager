@@ -1,0 +1,29 @@
+BEGIN GAMU
+    BEGIN AUDITION
+    17
+        METADATA
+            TITLE "Audition Wonders" 
+            SUBTITLE "Wonders " 
+            SUBJECT "Various instruments" 
+            ORGANIZER "Bethoven" 
+            PLACE "A2" 
+            DATE 15/04/2016
+            TIME 14h 45
+            DURATION 6h 20m
+        .
+        PERFORMANCES
+            PERFORMANCE
+            LEADERS P1
+            PERFORMERS A36422
+            PLAYS
+                PLAY O1 ;
+          .
+            PERFORMANCE "Grupo cordas"
+            LEADERS P3 , P5
+            PERFORMERS A1510 , A32597
+            PLAYS
+                PLAY O2 ;
+                PLAY O7 ;
+          .
+    END AUDITION
+END GAMU

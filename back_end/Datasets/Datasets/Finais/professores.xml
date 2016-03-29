@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<professores>
+    <professor id="P1">
+        <nome>Alvaro Jose De Castro Moreira Da Silva</nome>
+        <dataNasc>1963-07-27</dataNasc>
+        <habilitacoes>HM20</habilitacoes>
+        <curso>CS20</curso>
+    </professor>
+    <professor id="P2">
+        <nome>Andre Filipe Azevedo Sousa</nome>
+        <dataNasc>1968-03-15</dataNasc>
+        <habilitacoes>HL9</habilitacoes>
+        <curso>CB9</curso>
+    </professor>
+    <professor id="P3">
+        <nome>Bruno Miguel Pereira Pinto</nome>
+        <dataNasc>1977-05-06</dataNasc>
+        <habilitacoes>HL4</habilitacoes>
+        <curso>CB4</curso>
+    </professor>
+    <professor id="P4">
+        <nome>Filipe Alexandre Da Silva Martins</nome>
+        <dataNasc>1988-12-10</dataNasc>
+        <habilitacoes>HM19</habilitacoes>
+        <curso>CB19</curso>
+    </professor>
+    <professor id="P5">
+        <nome>Helder Ricardo Dias Ribeiro</nome>
+        <dataNasc>1969-03-04</dataNasc>
+        <habilitacoes>HM15</habilitacoes>
+        <curso>CS15</curso>
+    </professor>
+    <professor id="P6">
+        <nome>Hernani Rodrigues Da Silva</nome>
+        <dataNasc>1971-11-21</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P7">
+        <nome>Jorge Manuel Barros Nunes</nome>
+        <dataNasc>1959-05-23</dataNasc>
+        <habilitacoes>HM19</habilitacoes>
+        <curso>CS19</curso>
+    </professor>
+    <professor id="P8">
+        <nome>Jose Miguel Araujo Ferreira</nome>
+        <dataNasc>1947-01-10</dataNasc>
+        <habilitacoes>HM11</habilitacoes>
+        <curso>CS11</curso>
+    </professor>
+    <professor id="P9">
+        <nome>Pedro Gabriel Dias Ferreira</nome>
+        <dataNasc>1950-08-13</dataNasc>
+        <habilitacoes>HL22</habilitacoes>
+        <curso>CB22</curso>
+    </professor>
+    <professor id="P10">
+        <nome>Pedro Manuel Vieira Santos Pinto</nome>
+        <dataNasc>1956-11-13</dataNasc>
+        <habilitacoes>HM3</habilitacoes>
+        <curso>CS3</curso>
+    </professor>
+    <professor id="P11">
+        <nome>Rui Manuel Afonso Rodrigues Silva Guerra</nome>
+        <dataNasc>1967-10-13</dataNasc>
+        <habilitacoes>HL15</habilitacoes>
+        <curso>CB15</curso>
+    </professor>
+    <professor id="P12">
+        <nome>Sergio Miguel Valente De Almeida</nome>
+        <dataNasc>1954-06-28</dataNasc>
+        <habilitacoes>HM18</habilitacoes>
+        <curso>CS18</curso>
+    </professor>
+    <professor id="P13">
+        <nome>Tiago Machado Silva</nome>
+        <dataNasc>1946-08-21</dataNasc>
+        <habilitacoes>HL15</habilitacoes>
+        <curso>CB15</curso>
+    </professor>
+    <professor id="P14">
+        <nome>Vasco Duarte Almeida Dias De Castro</nome>
+        <dataNasc>1947-10-04</dataNasc>
+        <habilitacoes>HM21</habilitacoes>
+        <curso>CS21</curso>
+    </professor>
+    <professor id="P15">
+        <nome>Antonio Jose Oliveira Faria</nome>
+        <dataNasc>1946-12-21</dataNasc>
+        <habilitacoes>HL19</habilitacoes>
+        <curso>CB19</curso>
+    </professor>
+    <professor id="P16">
+        <nome>Carla Maria Mendes De Castro</nome>
+        <dataNasc>1953-01-27</dataNasc>
+        <habilitacoes>HM11</habilitacoes>
+        <curso>CS11</curso>
+    </professor>
+    <professor id="P17">
+        <nome>Marlene Azevedo Da Silva</nome>
+        <dataNasc>1954-06-11</dataNasc>
+        <habilitacoes>HL20</habilitacoes>
+        <curso>CB20</curso>
+    </professor>
+    <professor id="P18">
+        <nome>Paulo Alexandre Marques De Oliveira Serafim</nome>
+        <dataNasc>1961-11-20</dataNasc>
+        <habilitacoes>HL21</habilitacoes>
+        <curso>CB21</curso>
+    </professor>
+    <professor id="P19">
+        <nome>David Filipe Oliveira Costa</nome>
+        <dataNasc>1959-10-01</dataNasc>
+        <habilitacoes>HM19</habilitacoes>
+        <curso>CS19</curso>
+    </professor>
+    <professor id="P20">
+        <nome>Ricardo Miguel Carvalho Ferreira</nome>
+        <dataNasc>1950-06-21</dataNasc>
+        <habilitacoes>HM11</habilitacoes>
+        <curso>CS11</curso>
+    </professor>
+    <professor id="P21">
+        <nome>Jose Alves De Castro</nome>
+        <dataNasc>1973-09-16</dataNasc>
+        <habilitacoes>HM17</habilitacoes>
+        <curso>CB17</curso>
+    </professor>
+    <professor id="P22">
+        <nome>Mario Bento Brito Nobrega Ramos De Azevedo</nome>
+        <dataNasc>1969-03-06</dataNasc>
+        <habilitacoes>HM16</habilitacoes>
+        <curso>CS16</curso>
+    </professor>
+    <professor id="P23">
+        <nome>Paulo Cesar Rodrigues Gomes</nome>
+        <dataNasc>1949-08-26</dataNasc>
+        <habilitacoes>HM7</habilitacoes>
+        <curso>CS7</curso>
+    </professor>
+    <professor id="P24">
+        <nome>Susana Pereira</nome>
+        <dataNasc>1989-08-23</dataNasc>
+        <habilitacoes>HM13</habilitacoes>
+        <curso>CS13</curso>
+    </professor>
+    <professor id="P25">
+        <nome>Gabriel Reis</nome>
+        <dataNasc>1980-09-04</dataNasc>
+        <habilitacoes>HL13</habilitacoes>
+        <curso>CB13</curso>
+    </professor>
+    <professor id="P26">
+        <nome>Arsénio</nome>
+        <dataNasc>1973-03-05</dataNasc>
+        <habilitacoes>HL17</habilitacoes>
+        <curso>CB17</curso>
+    </professor>
+    <professor id="P27">
+        <nome>Frederico Pinto</nome>
+        <dataNasc>1988-01-07</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P28">
+        <nome>Gonçalo Hermenegildo</nome>
+        <dataNasc>1965-02-28</dataNasc>
+        <habilitacoes>HM6</habilitacoes>
+        <curso>CS6</curso>
+    </professor>
+    <professor id="P29">
+        <nome>Luis</nome>
+        <dataNasc>1987-03-26</dataNasc>
+        <habilitacoes>HM4</habilitacoes>
+        <curso>CB4</curso>
+    </professor>
+    <professor id="P30">
+        <nome>Miguel Pinto</nome>
+        <dataNasc>1977-01-02</dataNasc>
+        <habilitacoes>HL19</habilitacoes>
+        <curso>CB19</curso>
+    </professor>
+    <professor id="P31">
+        <nome>Pedro Lopes</nome>
+        <dataNasc>1979-06-09</dataNasc>
+        <habilitacoes>HL1</habilitacoes>
+        <curso>CB1</curso>
+    </professor>
+    <professor id="P32">
+        <nome>António José Coutinho Barbosa</nome>
+        <dataNasc>1969-05-11</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P33">
+        <nome>Ricardo Paz</nome>
+        <dataNasc>1966-06-21</dataNasc>
+        <habilitacoes>HM21</habilitacoes>
+        <curso>CS21</curso>
+    </professor>
+    <professor id="P34">
+        <nome>Sandrina Maciel</nome>
+        <dataNasc>1980-11-04</dataNasc>
+        <habilitacoes>HL18</habilitacoes>
+        <curso>CB18</curso>
+    </professor>
+    <professor id="P35">
+        <nome>Bruno Martins</nome>
+        <dataNasc>1962-04-19</dataNasc>
+        <habilitacoes>HL17</habilitacoes>
+        <curso>CB17</curso>
+    </professor>
+    <professor id="P36">
+        <nome>Filipe Froufe</nome>
+        <dataNasc>1960-07-22</dataNasc>
+        <habilitacoes>HM9</habilitacoes>
+        <curso>CB9</curso>
+    </professor>
+    <professor id="P37">
+        <nome>João Brites</nome>
+        <dataNasc>1950-09-21</dataNasc>
+        <habilitacoes>HM1</habilitacoes>
+        <curso>CS1</curso>
+    </professor>
+    <professor id="P38">
+        <nome>Leandro Morgado</nome>
+        <dataNasc>1952-07-14</dataNasc>
+        <habilitacoes>HL22</habilitacoes>
+        <curso>CB22</curso>
+    </professor>
+    <professor id="P39">
+        <nome>Manuel Sousa</nome>
+        <dataNasc>1992-03-21</dataNasc>
+        <habilitacoes>HM3</habilitacoes>
+        <curso>CB3</curso>
+    </professor>
+    <professor id="P40">
+        <nome>Pedro Resende</nome>
+        <dataNasc>1983-03-24</dataNasc>
+        <habilitacoes>HM13</habilitacoes>
+        <curso>CB13</curso>
+    </professor>
+    <professor id="P41">
+        <nome>Ricardo</nome>
+        <dataNasc>1955-02-24</dataNasc>
+        <habilitacoes>HM15</habilitacoes>
+        <curso>CS15</curso>
+    </professor>
+    <professor id="P42">
+        <nome>Fernanda Barroso</nome>
+        <dataNasc>1954-01-03</dataNasc>
+        <habilitacoes>HL18</habilitacoes>
+        <curso>CB18</curso>
+    </professor>
+    <professor id="P43">
+        <nome>Marta Silva</nome>
+        <dataNasc>1985-06-01</dataNasc>
+        <habilitacoes>HM22</habilitacoes>
+        <curso>CS22</curso>
+    </professor>
+    <professor id="P44">
+        <nome>Paulo Alexandre Afonso Dias</nome>
+        <dataNasc>1966-12-15</dataNasc>
+        <habilitacoes>HM16</habilitacoes>
+        <curso>CB16</curso>
+    </professor>
+    <professor id="P45">
+        <nome>Susana Pacheco</nome>
+        <dataNasc>1982-02-06</dataNasc>
+        <habilitacoes>HL22</habilitacoes>
+        <curso>CB22</curso>
+    </professor>
+    <professor id="P46">
+        <nome>Almeno</nome>
+        <dataNasc>1982-08-02</dataNasc>
+        <habilitacoes>HM16</habilitacoes>
+        <curso>CS16</curso>
+    </professor>
+    <professor id="P47">
+        <nome>Carlos Durana</nome>
+        <dataNasc>1970-05-14</dataNasc>
+        <habilitacoes>HM10</habilitacoes>
+        <curso>CS10</curso>
+    </professor>
+    <professor id="P48">
+        <nome>Hernani Silva</nome>
+        <dataNasc>1945-03-13</dataNasc>
+        <habilitacoes>HM8</habilitacoes>
+        <curso>CS8</curso>
+    </professor>
+    <professor id="P49">
+        <nome>Sofia Paiva</nome>
+        <dataNasc>1965-06-22</dataNasc>
+        <habilitacoes>HM9</habilitacoes>
+        <curso>CB9</curso>
+    </professor>
+    <professor id="P50">
+        <nome>Bruno Miguel Pereira Pinto</nome>
+        <dataNasc>1971-01-20</dataNasc>
+        <habilitacoes>HL5</habilitacoes>
+        <curso>CB5</curso>
+    </professor>
+    <professor id="P51">
+        <nome>Cristiano Cunha</nome>
+        <dataNasc>1987-05-06</dataNasc>
+        <habilitacoes>HM21</habilitacoes>
+        <curso>CB21</curso>
+    </professor>
+    <professor id="P52">
+        <nome>Daniel Pires</nome>
+        <dataNasc>1976-08-05</dataNasc>
+        <habilitacoes>HL1</habilitacoes>
+        <curso>CB1</curso>
+    </professor>
+    <professor id="P53">
+        <nome>Ernesto Miranda Pedrosa Da Silva</nome>
+        <dataNasc>1977-11-13</dataNasc>
+        <habilitacoes>HL20</habilitacoes>
+        <curso>CB20</curso>
+    </professor>
+    <professor id="P54">
+        <nome>Manuel Joao Salgado Da Costa Amaro</nome>
+        <dataNasc>1977-09-11</dataNasc>
+        <habilitacoes>HM3</habilitacoes>
+        <curso>CS3</curso>
+    </professor>
+    <professor id="P55">
+        <nome>Pedro Nuno Tavares Da Silva </nome>
+        <dataNasc>1978-12-06</dataNasc>
+        <habilitacoes>HM12</habilitacoes>
+        <curso>CB12</curso>
+    </professor>
+    <professor id="P56">
+        <nome>Rui Pedro Da Costa Barbosa</nome>
+        <dataNasc>1977-11-14</dataNasc>
+        <habilitacoes>HM5</habilitacoes>
+        <curso>CS5</curso>
+    </professor>
+    <professor id="P57">
+        <nome>Carlos Guilherme Pelaio Macedo Costa </nome>
+        <dataNasc>1955-03-28</dataNasc>
+        <habilitacoes>HM19</habilitacoes>
+        <curso>CB19</curso>
+    </professor>
+    <professor id="P58">
+        <nome>Jorge Filipe Marcos Mota </nome>
+        <dataNasc>1947-10-23</dataNasc>
+        <habilitacoes>HM2</habilitacoes>
+        <curso>CS2</curso>
+    </professor>
+    <professor id="P59">
+        <nome>Nuno Miguel Alves Peixoto</nome>
+        <dataNasc>1986-12-22</dataNasc>
+        <habilitacoes>HL20</habilitacoes>
+        <curso>CB20</curso>
+    </professor>
+    <professor id="P60">
+        <nome>Vânia Sifia Carvalho</nome>
+        <dataNasc>1986-01-17</dataNasc>
+        <habilitacoes>HM5</habilitacoes>
+        <curso>CS5</curso>
+    </professor>
+    <professor id="P61">
+        <nome>Maria Campos</nome>
+        <dataNasc>1963-06-07</dataNasc>
+        <habilitacoes>HL21</habilitacoes>
+        <curso>CB21</curso>
+    </professor>
+    <professor id="P62">
+        <nome>Nuno Rodrigues</nome>
+        <dataNasc>1983-06-17</dataNasc>
+        <habilitacoes>HL15</habilitacoes>
+        <curso>CB15</curso>
+    </professor>
+    <professor id="P63">
+        <nome>Adélio Marco Da Costa Fernandes</nome>
+        <dataNasc>1972-11-13</dataNasc>
+        <habilitacoes>HM22</habilitacoes>
+        <curso>CB22</curso>
+    </professor>
+    <professor id="P64">
+        <nome>Alexandre Gonçalves</nome>
+        <dataNasc>1970-12-16</dataNasc>
+        <habilitacoes>HM18</habilitacoes>
+        <curso>CB18</curso>
+    </professor>
+    <professor id="P65">
+        <nome>Amândio Telmo Oliveira Teixeira</nome>
+        <dataNasc>1961-12-11</dataNasc>
+        <habilitacoes>HL22</habilitacoes>
+        <curso>CB22</curso>
+    </professor>
+    <professor id="P66">
+        <nome>Carla Sofia De Almeida Coutinho </nome>
+        <dataNasc>1989-01-06</dataNasc>
+        <habilitacoes>HL10</habilitacoes>
+        <curso>CB10</curso>
+    </professor>
+    <professor id="P67">
+        <nome>Edison Oliveira</nome>
+        <dataNasc>1974-09-19</dataNasc>
+        <habilitacoes>HM12</habilitacoes>
+        <curso>CB12</curso>
+    </professor>
+    <professor id="P68">
+        <nome>Fernando Sousa</nome>
+        <dataNasc>1951-07-22</dataNasc>
+        <habilitacoes>HM11</habilitacoes>
+        <curso>CB11</curso>
+    </professor>
+    <professor id="P69">
+        <nome>Filipe Manuel Alves Romano</nome>
+        <dataNasc>1965-06-15</dataNasc>
+        <habilitacoes>HM9</habilitacoes>
+        <curso>CB9</curso>
+    </professor>
+    <professor id="P70">
+        <nome>Francisco Alexandre Aires Gonçalves</nome>
+        <dataNasc>1972-02-16</dataNasc>
+        <habilitacoes>HM3</habilitacoes>
+        <curso>CS3</curso>
+    </professor>
+    <professor id="P71">
+        <nome>Mário André De Castro Vila Cova</nome>
+        <dataNasc>1950-02-24</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P72">
+        <nome>Nuno Santos</nome>
+        <dataNasc>1961-07-26</dataNasc>
+        <habilitacoes>HM9</habilitacoes>
+        <curso>CS9</curso>
+    </professor>
+    <professor id="P73">
+        <nome>Nuno Miguel Dos Santos Nunes Roldão</nome>
+        <dataNasc>1967-08-11</dataNasc>
+        <habilitacoes>HM5</habilitacoes>
+        <curso>CB5</curso>
+    </professor>
+    <professor id="P74">
+        <nome>Orlando Jorge Carvalho Ribeiro</nome>
+        <dataNasc>1960-09-10</dataNasc>
+        <habilitacoes>HM3</habilitacoes>
+        <curso>CS3</curso>
+    </professor>
+    <professor id="P75">
+        <nome>Pedro Filipe Meira Morais</nome>
+        <dataNasc>1979-06-26</dataNasc>
+        <habilitacoes>HL14</habilitacoes>
+        <curso>CB14</curso>
+    </professor>
+    <professor id="P76">
+        <nome>Renato Neves</nome>
+        <dataNasc>1967-03-22</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P77">
+        <nome>Ricardo</nome>
+        <dataNasc>1987-03-14</dataNasc>
+        <habilitacoes>HL14</habilitacoes>
+        <curso>CB14</curso>
+    </professor>
+    <professor id="P78">
+        <nome>Ricardo Manuel Da Silva Abreu</nome>
+        <dataNasc>1946-02-19</dataNasc>
+        <habilitacoes>HL13</habilitacoes>
+        <curso>CB13</curso>
+    </professor>
+    <professor id="P79">
+        <nome>Rui Miguel Silva</nome>
+        <dataNasc>1959-08-06</dataNasc>
+        <habilitacoes>HL17</habilitacoes>
+        <curso>CB17</curso>
+    </professor>
+    <professor id="P80">
+        <nome>Sandro Miguel Vales De Freitas</nome>
+        <dataNasc>1968-02-04</dataNasc>
+        <habilitacoes>HL7</habilitacoes>
+        <curso>CB7</curso>
+    </professor>
+    <professor id="P81">
+        <nome>Ana Luísa Pinto Teixeira</nome>
+        <dataNasc>1991-12-22</dataNasc>
+        <habilitacoes>HM12</habilitacoes>
+        <curso>CS12</curso>
+    </professor>
+    <professor id="P82">
+        <nome>Cândida</nome>
+        <dataNasc>1962-06-05</dataNasc>
+        <habilitacoes>HM17</habilitacoes>
+        <curso>CB17</curso>
+    </professor>
+    <professor id="P83">
+        <nome>Carla Susana Teixeira</nome>
+        <dataNasc>1945-03-07</dataNasc>
+        <habilitacoes>HM14</habilitacoes>
+        <curso>CS14</curso>
+    </professor>
+    <professor id="P84">
+        <nome>Daniel Edgar Pinto Soares</nome>
+        <dataNasc>1958-07-27</dataNasc>
+        <habilitacoes>HM4</habilitacoes>
+        <curso>CB4</curso>
+    </professor>
+    <professor id="P85">
+        <nome>Lúcia Sofia Miranda</nome>
+        <dataNasc>1948-12-18</dataNasc>
+        <habilitacoes>HL1</habilitacoes>
+        <curso>CB1</curso>
+    </professor>
+    <professor id="P86">
+        <nome>Márcio Ferreira</nome>
+        <dataNasc>1987-06-01</dataNasc>
+        <habilitacoes>HM6</habilitacoes>
+        <curso>CS6</curso>
+    </professor>
+    <professor id="P87">
+        <nome>Maria Da Conceição Mota</nome>
+        <dataNasc>1949-08-08</dataNasc>
+        <habilitacoes>HM18</habilitacoes>
+        <curso>CB18</curso>
+    </professor>
+    <professor id="P88">
+        <nome>Maria João Fernandes Guerreiro Da Silva </nome>
+        <dataNasc>1957-10-01</dataNasc>
+        <habilitacoes>HL2</habilitacoes>
+        <curso>CB2</curso>
+    </professor>
+    <professor id="P89">
+        <nome>Miguel Carreira</nome>
+        <dataNasc>1975-09-13</dataNasc>
+        <habilitacoes>HM6</habilitacoes>
+        <curso>CB6</curso>
+    </professor>
+    <professor id="P90">
+        <nome>Vítor Manuel Catarino</nome>
+        <dataNasc>1967-05-15</dataNasc>
+        <habilitacoes>HM8</habilitacoes>
+        <curso>CB8</curso>
+    </professor>
+    <professor id="P91">
+        <nome>Vitor Gonçalves</nome>
+        <dataNasc>1981-05-01</dataNasc>
+        <habilitacoes>HL9</habilitacoes>
+        <curso>CB9</curso>
+    </professor>
+    <professor id="P92">
+        <nome>Fernando Jorge Ferreira Laúndos Da Costa</nome>
+        <dataNasc>1986-07-08</dataNasc>
+        <habilitacoes>HM4</habilitacoes>
+        <curso>CS4</curso>
+    </professor>
+    <professor id="P93">
+        <nome>Marco Paulo Martins Cruz</nome>
+        <dataNasc>1968-12-16</dataNasc>
+        <habilitacoes>HM17</habilitacoes>
+        <curso>CS17</curso>
+    </professor>
+    <professor id="P94">
+        <nome>Miguel Pereira Mateus</nome>
+        <dataNasc>1955-10-06</dataNasc>
+        <habilitacoes>HM6</habilitacoes>
+        <curso>CB6</curso>
+    </professor>
+    <professor id="P95">
+        <nome>Rodney Lopes Gomes</nome>
+        <dataNasc>1955-08-16</dataNasc>
+        <habilitacoes>HM4</habilitacoes>
+        <curso>CB4</curso>
+    </professor>
+</professores>

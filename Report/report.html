@@ -1,0 +1,652 @@
+<html xmlns:r="http://elpri.di.uminho.pt/report" xmlns:p="http://elpri.di.uminho.pt/paragraph" xmlns:l="http://elpri.di.uminho.pt/list" xmlns:img="http://elpri.di.uminho.pt/image" xmlns:t="http://elpri.di.uminho.pt/table">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"><script src="https://code.jquery.com/jquery-1.11.0.min.js"></script><style type="text/css">
+                    .col-center{
+                        float:none;
+                        margin-left:auto;
+                        margin-right:auto;
+                    }</style><title>Relatório</title>
+   </head>
+   <body>
+      <div class="container">
+         <div class="col-md-12 text-center">
+            <div class="row">
+               <div class="col-md-12">
+                  <h2>Processamento de Linguagens e Conhecimento</h2>
+                  <h3>Berlioz Manager - Um Gestor de Audições/Concertos Musicais</h3>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-6 col-center">
+                  <div class="col-md-4">
+                     <div class="row"><strong>Emanuel Fernandes</strong></div>
+                     <div class="row">a61003</div>
+                     <div class="row"><a href="mailto:a61003@alunos.uminho.pt">a61003@alunos.uminho.pt</a></div>
+                     <div class="row"><img style="width: 100px" src="img/emanuel.jpg"></div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="row"><strong>Pedro Duarte</strong></div>
+                     <div class="row">a61071</div>
+                     <div class="row"><a href="mailto:a61071@alunos.uminho.pt">a61071@alunos.uminho.pt</a></div>
+                     <div class="row"><img style="width: 100px" src="img/pedro.jpg"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="row" style="margin-top:30px">
+               <div class="col-md-12">
+                  <div class="row">
+                     <h4>2016-01-18</h4>
+                  </div>
+                  <div class="row">
+                     <h4>Universidade do Minho</h4>
+                  </div>
+               </div>
+            </div>
+         </div>
+         
+         <p>No âmbito do perfil Processamento de Linguagens e Conhecimento, do Mestrado em Engenharia
+            Informática, este relatório pretende apresentar o Projecto de um Gestor de Audições/Concertos
+            Musicais, adotando os conhecimentos adquiridos nas unidades curriculares de Gramáticas
+            na Compreensão de Software e Processamento e Representação de Informação, bem como
+            as decisões que foram tomadas e as suas dificuldades.
+         </p>
+         
+         <p>Este trabalho tem como objetivo principal desenvolver uma solução em base de dados
+            para preencher uma necessidade específica de uma escola de música que ao longo de
+            um ano letivo poderá ter que organizar dezenas ou centenas de audições e concertos.
+         </p>
+         
+         <div class="col-md-12">
+            <div class="row">
+               <p class="bg-danger">Table of contents</p>
+               <ul>
+                  <li><a href="#d1e67">Estrutura do Relatório</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e85">Introdução</a></li>
+                  <ul>
+                     <li><a href="#d1e90">Contextualização</a></li>
+                  </ul>
+                  <ul>
+                     <li><a href="#d1e108">Caso de Estudo</a></li>
+                  </ul>
+                  <ul>
+                     <li><a href="#d1e153">Objetivos</a></li>
+                  </ul>
+                  <ul>
+                     <li><a href="#d1e165">Ferramentas</a></li>
+                  </ul>
+                  <ul>
+                     <li><a href="#d1e217">Arquitectura usada</a></li>
+                  </ul>
+               </ul>
+               <ul>
+                  <li><a href="#d1e263">Desenvolvimento</a></li>
+                  <ul>
+                     <li><a href="#d1e268">Modelação</a></li>
+                     <ul>
+                        <li><a href="#d1e279">Identificação de Entidades</a></li>
+                     </ul>
+                     <ul>
+                        <li><a href="#d1e334">Identificação dos relacionamentos entre entidades</a></li>
+                     </ul>
+                     <ul>
+                        <li><a href="#d1e412">Esquema Físico</a></li>
+                     </ul>
+                  </ul>
+                  <ul>
+                     <li><a href="#d1e425">Desenvolvimento e Funcionalidades</a></li>
+                  </ul>
+               </ul>
+               <ul>
+                  <li><a href="#d1e518">Notas Finais</a></li>
+                  <ul>
+                     <li><a href="#d1e523">Conclusão</a></li>
+                  </ul>
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-12">
+            <div class="row">
+               <p class="bg-danger">List of Figures</p>
+               <ul>
+                  <li><a href="#d1e222">Arquitectura BerliozManager</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e420">Modelo Físico da Aplicação</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e439">HomePage</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e446">Visualização de Audições</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e452">Visualização de Audições</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e458">Visualização de Actuações</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e468">Painel de listar dados</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e474">Painel de adicionar dados</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e480">Painel de editar dados</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e487">Criação de Audições</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e492">Painel de listar audições</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e497">Painel de consultar audição</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e503">Exportar para PDF</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e508">Exportar para HTML</a></li>
+               </ul>
+               <ul>
+                  <li><a href="#d1e513">Schema do XML de uma audição</a></li>
+               </ul>
+            </div>
+         </div>
+         <hr>
+         <div class="col-md-12"><a name="d1e67"></a>
+            
+            <h2>Estrutura do Relatório</h2>
+            
+            <p>Numa primeira fase, é apresentado o Resumo deste trabalho prático onde é descrito
+               de forma bastante sucinta o problema e a motivação para encontrar a sua solução.
+            </p>
+            
+            <p>De seguida é apresentada a Introdução, onde é exposto o caso de estudo e onde é feita
+               uma pequena contextualização do problema, bem como os objetivos a alcançar com este
+               trabalho.
+            </p>
+            
+            <p>Seguidamente surge o Desenvolvimento onde são apresentados os capítulos que descrevem
+               todo o processo para atingir a aplicação final, bem como as decisões que foram tomadas
+               ao longo do projeto.
+            </p>
+            
+            <p>Por fim é apresentada a Conclusão onde o grupo faz uma apreciação crítica sobre o
+               trabalho prático.
+            </p>
+            <a name="d1e85"></a>
+            
+            <h2>Introdução</h2>
+            <a name="d1e90"></a>
+            
+            <h3>Contextualização</h3>
+            
+            <p>Vivemos tempos difíceis com restrições a todos os níveis e com o tempo super acelerado.
+               Neste contexto, ser-se competitivo é cada vez difícil e exigente.
+            </p>
+            
+            <p>Quando se pensa no mercado de desenvolvimento de software é cada vez mais difícil
+               descobrir nichos de mercado ainda virgens. No entanto, é sempre possível descobrir
+               nichos de necessidades específicas: muitas vezes as instituições adquirem grandes
+               soluções que estão concebidas para o grande mercado genérico e que descuram as necessidades
+               mais específicas. Ora, se rapidamente fosse possível desenvolver um componente que
+               interoperasse com a grande aplicação e que resolvesse aquelas necessidades específicas
+               poderiam sair daqui alguns pequenos produtos com uma economia de escala associada.
+            </p>
+            
+            <p>É neste contexto microaplicacional que se propôs este projeto.</p>
+            
+            <p>Para tal fixou-se um tema que resultou de algumas conversas e vivências de um dos
+               docentes: uma escola de música. Já existem várias aplicações para a gestão de escolas
+               mas nenhuma resolve bem as especificidades de uma escola de música. Assim, depois
+               de uma reunião com a direção de uma escola de música identificaram-se algumas necessidades
+               específicas que poderão ser solucionadas por microaplicações: um gestor de audições/concertos
+               e um gestor de programas específicos.
+            </p>
+            
+            <a name="d1e108"></a>
+            
+            <h3>Caso de Estudo</h3>
+            
+            <p>O trabalho prático consiste no desenvolvimento de um gestor de dados, sendo populado
+               com a informação contida em ficheiros XML, através de formulários e também através
+               de uma notação rápida para criar audições escrita numa linguagem desenvolvida para
+               esse efeito.
+            </p>
+            
+            
+            <p>A concretização deste projeto pressupõe a realização de um conjunto etapas. A realçar:</p>
+            
+            <ul>
+               
+               <li>
+                  
+                  <p>Analisar os dados fornecidos pela equipa docente e os objetivos a atingir. Perceber
+                     as questões fundamentais do domínio do problema assim como tomar decisões quanto ao
+                     desenho da base dados e principais requisitos a cumprir.
+                  </p>
+                  
+               </li>
+               
+               <li>
+                  
+                  <p>Decidir que metodologias e ferramentas usar.</p>
+                  
+               </li>
+               
+               <li>
+                  
+                  <p>Desenhar o modelo da base dados, de maneira a poder armazenar e relacionar toda a
+                     informação importante presente nos arquivos de forma a satisfazer os requisitos do
+                     problema.
+                  </p>
+                  
+               </li>
+               
+               <li>
+                  
+                  <p>Analisar e trabalhar cada fonte de dados separadamente. Processando e inserindo a
+                     informação na base de dados.
+                  </p>
+                  
+               </li>
+               
+               <li>
+                  
+                  <p>Construção de uma interface gráfica para mostrar informação de forma simples.</p>
+                  
+               </li>
+               
+            </ul>
+            
+            <a name="d1e153"></a>
+            
+            <h3>Objetivos</h3>
+            
+            <p>Como foi mencionado anteriormente, o foco deste projeto passa por desenvolver um sistema
+               capaz de gerir informação relativamente a uma escola de música, no que toca às suas
+               inumeras audições e concertos que realizam ao longo do ano lectivo. E através dos
+               conhecimentos adquiridos nas aulas, processar e validar essa informação e inserir
+               informaticamente na base de dados. Tendo em conta os requisitos deste projeto, podemos
+               dizer que o principal objetivo é criar, alterar, listar e consultar uma audição a
+               partir de informação fornecida pelo utilizador;
+            </p>
+            
+            <p>A aplicação deverá garantir a persistência e consistência de dados com auxílio de
+               um sistema de base de dados relacional.
+            </p>
+            
+            <a name="d1e165"></a>
+            
+            <h3>Ferramentas</h3>
+            
+            <p>Para o desenvolvimento do nosso sistema precisamos de combinar um vasto conjunto de
+               tecnologias que nos permitam simplificar o nosso trabalho. 
+            </p> 
+            
+            <p>Para gerir e desenvolver paralelamente o código utilizámos o <strong>Github</strong>, que é um serviço de <em>web hosting</em> para o sistema de controlo de versões <strong>Git</strong>. Com a ajuda desta tecnologia, é mais fácil para o grupo discutir o código produzido,
+               melhora-lo e juntar ao código já existente.
+            </p>
+            
+            <p>Em relação ao desenvolvimento, recorremos ao phpMyAdmin que é um aplicativo web desenvolvido
+               em PHP para administração do MySQL pela Internet. A partir deste sistema é possível
+               criar e remover bases de dados, criar, remover e alterar tabelas, inserir, remover
+               e editar campos, executar códigos SQL e manipular campos chaves.
+            </p>
+            
+            <p>De forma facilitar o desenvolvimento da interface gráfica da aplicação web, utilizamos
+               o <strong>Bootstrap</strong> que é uma coleção livre e open-source de ferramentas para criar sites e aplicações
+               web. Ele contém HTML e modelos de design baseados em CSS para tipografia, formulários,
+               botões, navegação e outros componentes, bem como extensões JavaScript opcionais. .
+            </p>                
+            
+            <p>No que diz respeito a manipulação de documentos, e também para a escrita deste relatório
+               utilizámos as tecnologias dadas nas aulas tais como <strong>DTD</strong>, <strong>XSLT</strong> e <strong>XSD</strong>.
+            </p>
+            
+            <p>Usámos <em>ANTLR</em>, uma gramática de atributos e a liguagem de programação genérica <em>Java</em></p>.             
+            
+            <a name="d1e217"></a>
+            
+            <h3>Arquitectura usada</h3>
+            
+            <div class="col-center text-center"><a name="d1e222"></a><img src="img/arq.jpg"><br>Arquitectura BerliozManager
+            </div>
+            
+            <p>Existe uma base de dados sql cujo modelo relacional foi criado usando o programa <em>Visual Paradigm</em> que injectou uma estrutura de dados, em baixo explicada, com base nos datasets fornecidos
+               pelo docente. 
+            </p>
+            
+            <p>Com esta base de dados comunicam os controladores do web site defenidos na linguagem
+               <em>PHP</em> e a aplicação Java de suporte ao planeamento de audições com auxilio do <em>parse generator <strong>ANTLR</strong></em>.
+            </p>
+            
+            <p>A comunicação que existe entre a aplicação java e a base de dados SQL destina-se à
+               inserção da informação que diz respeito a audições bem definidas. Outro papel da aplicação
+               java é gerar ficheiros <em>XML e TXT</em> também com informação de audição para mais tarde o controlador do site usar para
+               gerar ficheiros <em> HTML e PDF</em> 
+            </p>
+            
+            <p>A parte que o utlizador visualiza, denominada front-end, foi desenvolvida em HTML
+               com auxilio a bibliotecas de templates css Bootstrap. A correspondência de dados que
+               se disponibiliza é obtida através da comunicação com o back-end com recurso a AJAX
+               realizando POST's dos dados à medida que o utlizador realiza uma acção. O controlador
+               em PHP analisa o request do front-end e devolve na maioria das vezes os dados pedidos
+               em JSON que mais tarde são processados pelo front-end 
+            </p>
+            
+            <p>Para os controladores comunicarem com a base de dados em SQL usa-se o <em>mysqli</em> para realizar querys podendo assim inserir, actualizar, apagar e consultar dados.
+               
+            </p>
+            
+            <a name="d1e263"></a>
+            
+            <h2>Desenvolvimento</h2>
+            <a name="d1e268"></a>
+            
+            <h3>Modelação</h3>
+            
+            <p>Neste secção pretende-se documentar e descrever o processo de aplicação de uma metodologia
+               de desenho e arquitetura da base de dados que dá resposta às necessidades da nossa
+               aplicação, <em>Berlioz Manager</em>.
+            </p>
+            <a name="d1e279"></a>
+            
+            <h4>Identificação de Entidades</h4>
+            
+            <p>Após a análise dos requisitos pretendidos para o projeto verificamos que era imprescindível
+               haver as seguintes entidades:
+            </p>
+            
+            <dl>
+               
+               <dt>Aluno</dt>
+               
+               <dt>Grupo</dt>
+               
+               <dt>Curso</dt>
+               
+               <dt>Professor</dt>
+               
+               <dt>Compositor</dt>
+               
+               <dt>Obra</dt>
+               
+               <dt>Actuação</dt>
+               
+               <dt>Instrumento</dt>
+               
+               <dt>Audição</dt>
+               
+               
+            </dl>
+            
+            
+            <p>Com a adição de alguns relacionamentos entre eles:</p>
+            
+            <dl>
+               
+               <dt>Grupo-Alunos</dt> Armazena a cada grupo, os id's dos alunos correspondentes;
+               
+               <dt>Obras-Actuações</dt> Associa os id's das obras às actuações correspondentes;
+               
+               <dt>Professores-Actuações</dt> Associa os id's dos professores às actuações correspondentes.
+               
+               
+            </dl>
+            
+            <a name="d1e334"></a>
+            
+            <h4>Identificação dos relacionamentos entre entidades</h4>
+            
+            <p>Depois de identificadas as principais entidades do sistema é necessário perceber quais
+               as relações existentes entre cada entidade.
+            </p>
+            
+            <dl>
+               
+               <dt>Curso(1) - tem - Aluno(N)</dt>
+               
+               <dd>
+                  <p>Este relacionamento traduz o facto de um Curso ter vários alunos, mas um aluno estar
+                     inscrito a um e apenas um curso
+                  </p>
+               </dd>
+               
+               <dt>Grupo(N) - tem - Alunos(M)</dt>
+               
+               <dd>
+                  <p>Um grupo é constituido por vários alunos. Mas um aluno pode estar em vários grupos</p>
+               </dd>
+               
+               <dt>Curso(1) - tem -  Instrumento(1)</dt>
+               
+               <dd>
+                  <p>A cada curso é atribuído um instrumento</p>
+               </dd>
+               
+               <dt>Curso(1) -  tem -  Professor(N)</dt>
+               
+               <dd>
+                  <p>Um curso é leccionado por vários professores</p>
+               </dd>
+               
+               <dt>Audição(1) - tem -  ActuaçõesN)</dt>
+               
+               <dd>
+                  <p>Uma audição é constituída por várias actuações</p>
+               </dd>
+               
+               <dt>Actuação(1) - tem  -  Peça(N)</dt>
+               
+               <dd>
+                  <p>Uma actuação é constituída por várias peças</p>
+               </dd>
+               
+               <dt>Compositor(1) - tem - Peça(N)</dt>
+               
+               <dd>
+                  <p>Um compositor é autor de várias peças</p>
+               </dd>
+               
+               <dt>Actuação(1) - pode ter - Alunos(1)</dt>
+               
+               <dd>
+                  <p>Uma actuação pode ser realizada por um aluno.</p>
+               </dd>
+               
+               <dt>Actuação(1) - pode ter - Grupo(1)</dt>
+               
+               <dd>
+                  <p>Uma actuação pode ser realizada por um grupo de alunos.</p>
+               </dd>
+               
+            </dl>
+            
+            
+            
+            <a name="d1e412"></a>
+            
+            <h4>Esquema Físico</h4>
+            
+            <p>Após a conclusão da identificação das relações conseguiu-se fazer o modelo físico
+               da base de dados. Apresenta-se assim, as entidades, relações e atributos anteriores
+               no modelo físico por via de tabelas e das transações existentes.
+            </p>
+            
+            <div class="col-center text-center"><a name="d1e420"></a><img src="img/mf.jpg"><br>Modelo Físico da Aplicação
+            </div>
+            
+            
+            
+            <a name="d1e425"></a>
+            
+            <h3>Desenvolvimento e Funcionalidades</h3>
+            	
+            <p>O nome escolhido para a nossa aplicação foi <strong>Berlioz Manager</strong>como forma de homenagem a Hector Berlioz, um músico que teve contribuições significativas
+               para a orquestra moderna. Ele criou música para enormes grupos orquestrais, e realizou
+               vários concertos com mais de mil músicos. Também compôs cerca de cinquenta canções
+            </p>
+            	
+            <p>Decidimos dividir a aplicação em duas distintas páginas: Uma pensada para a visualização
+               do público em geral, onde é possível consultar os próximos eventos da escola (audições/concertos),
+               uma breve descrição do trabalho realizado, como o contacto do grupo que realizou o
+               trabalho.
+            </p>
+            	
+            <div class="col-center text-center"><a name="d1e439"></a><img src="img/homepage.jpg"><br>HomePage
+            </div>
+            	
+            <p>Na visualização dos eventos (audições/concertos) é possível filtrar os que já aconteceram
+               dos que ainda estão por acontecer, assim como algumas informações básicas das Audições
+            </p>
+            	
+            <div class="col-center text-center"><a name="d1e446"></a><img src="img/homepage2.jpg"><br>Visualização de Audições
+            </div>
+            
+            	
+            <p>Após selecionar uma audição, de forma a obter mais informações como todas as actuações,
+               os alunos que estão envolvidos em todas as peças a ser tocadas
+            </p>
+            	
+            <div class="col-center text-center"><a name="d1e452"></a><img src="img/audicao.jpg"><br>Visualização de Audições
+            </div>
+            
+            	
+            <p>A lista de peças a ser tocadas também pode ser consultada</p>
+            	
+            <div class="col-center text-center"><a name="d1e458"></a><img src="img/actuacao.jpg"><br>Visualização de Actuações
+            </div>
+            
+            <p>
+               <p></p>
+            </p>
+            	
+            <p>O outro tipo de página está pensada com a finalidade de gerir toda a informação da
+               escola, ou seja, para ser utilizada por um membro responsável pela escola
+            </p>                	
+            
+            	
+            <div class="col-center text-center"><a name="d1e468"></a><img src="img/list.jpg"><br>Painel de listar dados
+            </div>
+            
+            
+            	
+            <p>É possível listar e adicionar Alunos, Professores, Cursos, Obras, Compositores através
+               de um simples formulário e através de um ficheiro XML.
+            </p>
+            
+            	
+            <div class="col-center text-center"><a name="d1e474"></a><img src="img/admin2.jpg"><br>Painel de adicionar dados
+            </div>
+            
+            <p>É possível editar os dados.</p>                	
+            
+            
+            <div class="col-center text-center"><a name="d1e480"></a><img src="img/edit.jpg"><br>Painel de editar dados
+            </div>
+            
+            	
+            <p>É tambem possivel adicionar audições através de uma área de texto onde é possível
+               escrever nela o planeamento da audição no formato definido pela gramática
+            </p>
+            
+            	
+            <div class="col-center text-center"><a name="d1e487"></a><img src="img/addaudition.jpg"><br>Criação de Audições
+            </div>
+            
+            
+            <p></p>                	
+            
+            
+            <div class="col-center text-center"><a name="d1e492"></a><img src="img/listaudi.jpg"><br>Painel de listar audições
+            </div>
+            
+            
+            <p></p>
+            
+            
+            <div class="col-center text-center"><a name="d1e497"></a><img src="img/consult.jpg"><br>Painel de consultar audição
+            </div>
+            
+            
+            <p></p>
+            
+            
+            <div class="col-center text-center"><a name="d1e503"></a><img src="img/pdf.jpg"><br>Exportar para PDF
+            </div>
+            
+            
+            <p></p>
+            
+            
+            <div class="col-center text-center"><a name="d1e508"></a><img src="img/html.jpg"><br>Exportar para HTML
+            </div>
+            
+            
+            <p></p>
+            
+            
+            <div class="col-center text-center"><a name="d1e513"></a><img src="img/k.png"><br>Schema do XML de uma audição
+            </div>
+            
+            
+            
+            
+            
+            <a name="d1e518"></a>
+            
+            <h2>Notas Finais</h2>
+            <a name="d1e523"></a>
+            
+            <h3>Conclusão</h3>
+            
+            <p>Em conclusão, vemos este projeto como mais um forma de pôr em prática os conhecimentos
+               adquiridos e as ferramentas disponibilizadas no perfil de Processamento de Linguagens
+               e Conhecimento durante o 1º Semestre. Como o enunciado deste trabalho prático implica
+               um domínio de todos os conceitos abordados nas aulas, este ajudou a consolidar os
+               conhecimentos e a combater algumas dificuldades que tínhamos anteriormente.
+            </p>
+            
+            <p>Quanto à fase de desenvolvimento do projecto, podemos considerar que a fase de interpretação
+               do enunciado tomou algum tempo ao grupo de forma a chegar a um acordo quando à implementação
+               da base de dados, nesta fase da criação da base de dados deparamo-nos com algumas
+               dificildades iniciais, mas apartir do momento em que se conseguiu povoar a base de
+               dados, tornou mais facéis as tarefas seguintes do grupo. Na parte final do desenvolvimento,
+               com uma menor disponibilidade de tempo dos elementos do grupo, alguns dos objectivos
+               iniciais não foram cumpridos. Pelo que na segunda oportunidade de apresentação os
+               requesitos estão quase na totalidade implementados
+            </p>
+            
+            <p>Depois de uma avaliação ponderada, o grupo considerou os requisitos pedidos foram
+               cumpridos, talvez numa abordagem inicial com o auxilio de uma framework ajudava o
+               grupo em termos de tempo e preocupação com os métodos CRUD.  Mas fica a certeza de
+               seria um bom projecto para continuar a trabalhar de forma a terminar-lo e o disponibilizar
+               ao sujeito cliente, neste caso uma escola de música.
+            </p>
+            
+            
+            
+         </div>
+         <hr>
+         <div class="col-md-12">
+            <div class="row">
+               
+               
+               
+               
+               <p></p>
+               
+               
+               
+            </div>
+         </div>
+         <hr>
+      </div>
+   </body>
+</html>

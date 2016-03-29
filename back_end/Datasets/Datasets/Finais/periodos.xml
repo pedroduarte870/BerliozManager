@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<periodos>
+  <periodo id="P1">Medieval</periodo>
+  <periodo id="P2">Renascimento</periodo>
+  <periodo id="P3">Barroco</periodo>
+  <periodo id="P4">Clássico</periodo>
+  <periodo id="P5">Romântico</periodo>
+  <periodo id="P6">Século XX</periodo>
+  <periodo id="P7">Contemporâneo</periodo>
+</periodos>

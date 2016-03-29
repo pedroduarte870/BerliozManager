@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos> 
+    <aluno> 
+        <nome>ALVARO JOSE DE CASTRO MOREIRA DA SILVA</nome> 
+        <numero>19469</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>ANDRE FILIPE AZEVEDO SOUSA</nome> 
+        <numero>22639</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>BRUNO MIGUEL PEREIRA PINTO</nome> 
+        <numero>24806</numero> 
+        <curso>LESI</curso>
+        <nota>sn</nota>
+    </aluno>
+    <aluno> 
+        <nome>FILIPE ALEXANDRE DA SILVA MARTINS</nome> 
+        <numero>24816</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>HELDER RICARDO DIAS RIBEIRO</nome> 
+        <numero>24824</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>HERNANI RODRIGUES DA SILVA</nome> 
+        <numero>23918</numero> 
+        <curso>LESI</curso>
+        <nota>sn</nota>
+    </aluno>
+    <aluno> 
+        <nome>JORGE MANUEL BARROS NUNES</nome> 
+        <numero>09799</numero> 
+        <curso>LESI</curso>
+        <nota>sn</nota>
+    </aluno>
+    <aluno> 
+        <nome>JOSE MIGUEL ARAUJO FERREIRA</nome> 
+        <numero>24837</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>PEDRO GABRIEL DIAS FERREIRA</nome> 
+        <numero>24867</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>PEDRO MANUEL VIEIRA SANTOS PINTO</nome> 
+        <numero>17890</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>RUI MANUEL AFONSO RODRIGUES SILVA GUERRA</nome> 
+        <numero>26703</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>SERGIO MIGUEL VALENTE DE ALMEIDA</nome> 
+        <numero>22729</numero> 
+        <curso>LESI</curso>
+        <nota>17</nota>
+    </aluno>
+    <aluno> 
+        <nome>TIAGO MACHADO SILVA</nome> 
+        <numero>22732</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>VASCO DUARTE ALMEIDA DIAS DE CASTRO</nome> 
+        <numero>22734</numero> 
+        <curso>LESI</curso>
+        <nota>18</nota>
+    </aluno>
+    <aluno> 
+        <nome>ANTONIO JOSE OLIVEIRA FARIA</nome> 
+        <numero>25348</numero> 
+        <curso>LMCC</curso>
+        <nota>17</nota>
+    </aluno>
+    <aluno> 
+        <nome>CARLA MARIA MENDES DE CASTRO</nome> 
+        <numero>18837</numero> 
+        <curso>LMCC</curso>
+        <nota>15</nota>
+    </aluno>
+    <aluno> 
+        <nome>MARLENE AZEVEDO DA SILVA</nome> 
+        <numero>25374</numero> 
+        <curso>LMCC</curso>
+        <nota>17</nota>
+    </aluno>
+    <aluno> 
+        <nome>PAULO ALEXANDRE MARQUES DE OLIVEIRA SERAFIM</nome> 
+        <numero>21809</numero> 
+        <curso>LMCC</curso>
+        <nota>17</nota>
+    </aluno>
+    <aluno> 
+        <nome>DAVID FILIPE OLIVEIRA COSTA</nome> 
+        <numero>28873</numero> 
+        <curso>LMCC</curso>
+        <nota>19</nota>
+    </aluno>
+    <aluno> 
+        <nome>RICARDO MIGUEL CARVALHO FERREIRA</nome> 
+        <numero>15889</numero> 
+        <curso>LMCC</curso>
+        <nota>19</nota>
+    </aluno>
+    <aluno> 
+        <nome>JOSE ALVES DE CASTRO</nome> 
+        <numero>23187</numero> 
+        <curso>LMCC</curso>
+        <nota>16</nota>
+    </aluno>
+    <aluno> 
+        <nome>MARIO BENTO BRITO NOBREGA RAMOS DE AZEVEDO</nome> 
+        <numero>20210</numero> 
+        <curso>LMCC</curso>
+        <nota>10</nota>
+    </aluno>
+    <aluno> 
+        <nome>PAULO CESAR RODRIGUES GOMES</nome> 
+        <numero>23204</numero> 
+        <curso>LMCC</curso>
+        <nota>16</nota>
+    </aluno>
+    <aluno>
+        <nome>Susana Pereira</nome>
+        <numero>20241</numero>
+        <curso>LMCC</curso>
+        <nota>15</nota>
+    </aluno>
+    <aluno>
+    <numero>8921</numero>
+    <nome>Gabriel Reis</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>15574</numero>
+    <nome>Arsénio</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>18675</numero>
+    <nome>Frederico Pinto</nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>19693</numero>
+    <nome>Gonçalo Hermenegildo</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>19710</numero>
+    <nome>Luis</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>19724</numero>
+    <nome>Miguel Pinto</nome>
+    <curso>LESI</curso>
+    <notaP>16</notaP>
+    <notaT>18</notaT>
+  </aluno>
+  <aluno>
+    <numero>19748</numero>
+    <nome>Pedro Lopes</nome>
+    <curso>LESI</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>20191</numero>
+    <nome>António José Coutinho Barbosa</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>20225</numero>
+    <nome>Ricardo Paz</nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>20232</numero>
+    <nome>Sandrina Maciel</nome>
+    <curso>LMCC</curso>
+    <notaP>12</notaP>
+  </aluno>
+  <aluno>
+    <numero>22645</numero>
+    <nome>Bruno Martins</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>22654</numero>
+    <nome>Filipe Froufe</nome>
+    <curso>LESI</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>22659</numero>
+    <nome>João Brites</nome>
+    <curso>LESI</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>22672</numero>
+    <nome>Leandro Morgado</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>22682</numero>
+    <nome>Manuel Sousa</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>22709</numero>
+    <nome>Pedro Resende</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>22717</numero>
+    <nome>Ricardo</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>23179</numero>
+    <nome>Fernanda Barroso</nome>
+    <curso>LMCC</curso>
+    <notaP>12</notaP>
+  </aluno>
+  <aluno>
+    <numero>23198</numero>
+    <nome>Marta Silva</nome>
+    <curso>LMCC</curso>
+    <notaP>12</notaP>
+  </aluno>
+  <aluno>
+    <numero>23203</numero>
+    <nome>Paulo Alexandre Afonso Dias</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>23218</numero>
+    <nome>Susana Pacheco</nome>
+    <curso>LMCC</curso>
+    <notaP>12</notaP>
+  </aluno>
+  <aluno>
+    <numero>23259</numero>
+    <nome>Almeno</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>23775</numero>
+    <nome>Carlos Durana</nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>23918</numero>
+    <nome>Hernani Silva</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>24799</numero>
+    <nome>Sofia PAiva</nome>
+    <curso>LESI</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>24806</numero>
+    <nome>Bruno Miguel Pereira Pinto</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>24811</numero>
+    <nome>Cristiano Cunha</nome>
+    <curso>LESI</curso>
+    <notaP>14</notaP>
+  </aluno>
+  <aluno>
+    <numero>24813</numero>
+    <nome>Daniel Pires</nome>
+    <curso>LESI</curso>
+    <notaP>14</notaP>
+  </aluno>
+  <aluno>
+    <numero>24814</numero>
+    <nome>Ernesto Miranda Pedrosa da Silva</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>24845</numero>
+    <nome>Manuel Joao Salgado da Costa Amaro</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>24870</numero>
+    <nome>Pedro Nuno Tavares da Silva </nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>25206</numero>
+    <nome>Rui Pedro da Costa Barbosa</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>25351</numero>
+    <nome>Carlos Guilherme Pelaio Macedo Costa </nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>25362</numero>
+    <nome>Jorge Filipe Marcos Mota </nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>25377</numero>
+    <nome>Nuno Miguel Alves Peixoto</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>25400</numero>
+    <nome>Vânia Sifia Carvalho</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>26327</numero>
+    <nome>Maria Campos</nome>
+    <curso>LMCC</curso>
+    <notaP>12</notaP>
+  </aluno>
+  <aluno>
+    <numero>26967</numero>
+    <nome>Nuno Rodrigues</nome>
+    <curso>LMCC</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>27585</numero>
+    <nome>Adélio Marco da Costa Fernandes</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27586</numero>
+    <nome>Alexandre Gonçalves</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>27588</numero>
+    <nome>Amândio Telmo Oliveira Teixeira</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27596</numero>
+    <nome>Carla Sofia de Almeida Coutinho </nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27605</numero>
+    <nome>Edison Oliveira</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>27610</numero>
+    <nome>Fernando Sousa</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>27613</numero>
+    <nome>Filipe Manuel Alves Romano</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27614</numero>
+    <nome>Francisco Alexandre Aires Gonçalves</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27638</numero>
+    <nome>Mário André de Castro Vila Cova</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27642</numero>
+    <nome>Nuno Santos</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>27647</numero>
+    <nome>Nuno Miguel dos Santos Nunes Roldão</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27649</numero>
+    <nome>Orlando Jorge Carvalho Ribeiro</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27654</numero>
+    <nome>Pedro Filipe Meira Morais</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27660</numero>
+    <nome>Renato Neves</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>27661</numero>
+    <nome>Ricardo</nome>
+    <curso>LESI</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>27665</numero>
+    <nome>Ricardo Manuel da Silva Abreu</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>27671</numero>
+    <nome>Rui Miguel Silva</nome>
+    <curso>LESI</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>27681</numero>
+    <nome>Sandro Miguel Vales de Freitas</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>28136</numero>
+    <nome>Ana Luísa Pinto Teixeira</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>28144</numero>
+    <nome>Cândida</nome>
+    <curso>LMCC</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>28146</numero>
+    <nome>Carla Susana Teixeira</nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>28149</numero>
+    <nome>Daniel Edgar Pinto Soares</nome>
+    <curso>LMCC</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>28160</numero>
+    <nome>Lúcia Sofia Miranda</nome>
+    <curso>LMCC</curso>
+    <notaP>17</notaP>
+  </aluno>
+  <aluno>
+    <numero>28164</numero>
+    <nome>Márcio Ferreira</nome>
+    <curso>LMCC</curso>
+    <notaP>18</notaP>
+  </aluno>
+  <aluno>
+    <numero>28166</numero>
+    <nome>Maria da Conceição Mota</nome>
+    <curso>LMCC</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>28168</numero>
+    <nome>Maria João Fernandes Guerreiro da Silva </nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>28173</numero>
+    <nome>Miguel Carreira</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>28190</numero>
+    <nome>Vítor Manuel Catarino</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>28191</numero>
+    <nome>Vitor Gonçalves</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>28900</numero>
+    <nome>Fernando Jorge Ferreira Laúndos da Costa</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+  <aluno>
+    <numero>29016</numero>
+    <nome>Marco Paulo Martins Cruz</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>29060</numero>
+    <nome>Miguel Pereira Mateus</nome>
+    <curso>LMCC</curso>
+    <notaP>16</notaP>
+  </aluno>
+  <aluno>
+    <numero>29252</numero>
+    <nome>Rodney Lopes Gomes</nome>
+    <curso>LESI</curso>
+    <notaP>19</notaP>
+  </aluno>
+</alunos>
